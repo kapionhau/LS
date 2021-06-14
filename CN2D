@@ -11,9 +11,39 @@
 
 🇭🇰,#genre#
 
+華麗翡翠台(720p),http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+
+
 翡翠台(1080p),https://cdn.hkdtmb.com/hls/81/index.m3u8?&有時會卡
+翡翠台(1080p),http://185.207.176.189:8080/channels/tv-81/mpeg.2ts?&有點卡且可能花屏
 翡翠台(1080p),http://61.238.6.49:8000/bysid/1?&花屏且卡
-明珠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1,tvming-XGMingZhu
+翡翠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+
+
+明珠台(1080p),http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
+明珠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+
+
+J2(1080p),http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
+
+無線新聞(1080p),http://185.207.176.189:8080/channels/tv-83/mpeg.2ts
+無線財經資訊(1080p),http://185.207.176.189:8080/channels/tv-85/mpeg.2ts
+
+ViuTV(1080p),http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+ViuTV 6(1080p),http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
+
+RTHK 31(1080p),http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
+RTHK 32(1080p),http://185.207.176.189:8080/channels/tv-32/mpeg.2ts
+RTHK 33(1080p),http://185.207.176.189:8080/channels/tv-33/mpeg.2ts
+
+
+有線體育台(720p),rtmp://59.124.75.130/sat/hk021
+有線體育台(408p),rtmp://59.124.75.130/sat/hk022
+
+有線18台(720p),rtmp://59.124.75.130/sat/hk041
+有線18台(408p),rtmp://59.124.75.130/sat/hk042
+
+
 
 🇹🇼,#genre#
 民視 HD(720p),rtmp://59.124.75.130/sat/tv051
