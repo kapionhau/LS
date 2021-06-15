@@ -14,27 +14,69 @@
 華麗翡翠台(720p),http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 
 
+翡翠台(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=81
+翡翠台(1080p),https://hk1.chaojidianshi.net/hls/81/index.m3u8
 翡翠台(1080p),https://cdn.hkdtmb.com/hls/81/index.m3u8?&有時會卡
 翡翠台(1080p),http://185.207.176.189:8080/channels/tv-81/mpeg.2ts?&有點卡且可能花屏
+翡翠台(1080p),http://hk.qqdszb.com/81/index.m3u8
 翡翠台(1080p),http://61.238.6.49:8000/bysid/1?&花屏且卡
 翡翠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 
-
+明珠台(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=84
+明珠台(1080p),https://hk1.chaojidianshi.net/hls/84/index.m3u8
+明珠台(1080p),https://cdn.hkdtmb.com/hls/84/index.m3u8
 明珠台(1080p),http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
+明珠台(1080p),http://hk.qqdszb.com/84/index.m3u8
 明珠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 
-
+J2(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=82
+J2(1080p),https://hk1.chaojidianshi.net/hls/82/index.m3u8
+J2(1080p),https://cdn.hkdtmb.com/hls/82/index.m3u8
 J2(1080p),http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
+J2(1080p),http://hk.qqdszb.com/82/index.m3u8
 
+無線新聞(1080p),http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623776697~exp=1623863097~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=dabba152a0feda2afe552bf549ac01bcdf11e9df1daa02f3e28b65a2be7c072e&p=3321#http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623776801~exp=1623863201~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=3387537d7d4775e1d6fc747d344a55b6f072d316c88f202625f67b486045c6cd&p=3321#http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623776774~exp=1623863174~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=9e3a56509c5efa3c2339afb9e89ddf6dbae2cd9cec9af51450bf8377a7df2f7d&p=3321
+無線新聞(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=83
+無線新聞(1080p),https://hk1.chaojidianshi.net/hls/83/index.m3u8
+無線新聞(1080p),https://cdn.hkdtmb.com/hls/83/index.m3u8
 無線新聞(1080p),http://185.207.176.189:8080/channels/tv-83/mpeg.2ts
+無線新聞(1080p),http://hk.qqdszb.com/83/index.m3u8
+
+無線財經資訊(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=85
+無線財經資訊(1080p),https://hk1.chaojidianshi.net/hls/85/index.m3u8
+無線財經資訊(1080p),https://cdn.hkdtmb.com/hls/85/index.m3u8
 無線財經資訊(1080p),http://185.207.176.189:8080/channels/tv-85/mpeg.2ts
+無線財經資訊(1080p),http://hk.qqdszb.com/85/index.m3u8
 
+ViuTV(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=99
+ViuTV(1080p),https://hk1.chaojidianshi.net/hls/99/index.m3u8
+ViuTV(1080p),https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV(1080p),http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
-ViuTV 6(1080p),http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
+ViuTV(1080p),http://hk.qqdszb.com/99/index.m3u8
 
+ViuTV 6(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=96
+ViuTV 6(1080p),https://hk1.chaojidianshi.net/hls/96/index.m3u8
+ViuTV 6(1080p),https://cdn.hkdtmb.com/hls/96/index.m3u8
+ViuTV 6(1080p),http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
+ViuTV 6(1080p),http://hk.qqdszb.com/96/index.m3u8
+
+RTHK 31(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=31
+RTHK 31(1080p),https://hk1.chaojidianshi.net/hls/31/index.m3u8
+RTHK 31(1080p),https://cdn.hkdtmb.com/hls/31/index.m3u8
 RTHK 31(1080p),http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
+RTHK 31(1080p),http://hk.qqdszb.com/31/index.m3u8
+
+RTHK 32(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=32
+RTHK 32(1080p),https://hk1.chaojidianshi.net/hls/32/index.m3u8
+RTHK 32(1080p),https://cdn.hkdtmb.com/hls/32/index.m3u8
 RTHK 32(1080p),http://185.207.176.189:8080/channels/tv-32/mpeg.2ts
+RTHK 32(1080p),http://hk.qqdszb.com/32/index.m3u8
+
+RTHK 33(1080p),http://ai6844823.vc3.aihost10.top/cdn.php?id=33
+RTHK 33(1080p),https://hk1.chaojidianshi.net/hls/33/index.m3u8
+RTHK 33(1080p),https://cdn.hkdtmb.com/hls/33/index.m3u8
 RTHK 33(1080p),http://185.207.176.189:8080/channels/tv-33/mpeg.2ts
+RTHK 33(1080p),http://hk.qqdszb.com/33/index.m3u8
 
 
 有線體育台(720p),rtmp://59.124.75.130/sat/hk021
@@ -42,6 +84,8 @@ RTHK 33(1080p),http://185.207.176.189:8080/channels/tv-33/mpeg.2ts
 
 有線18台(720p),rtmp://59.124.75.130/sat/hk041
 有線18台(408p),rtmp://59.124.75.130/sat/hk042
+有線18台(408p),rtmp://59.124.75.130/sat/hk042
+
 
 
 
