@@ -34,7 +34,7 @@ J2(1080p),https://cdn.hkdtmb.com/hls/82/index.m3u8
 J2(1080p),http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
 J2(1080p),http://hk.qqdszb.com/82/index.m3u8
 
-無線新聞(1080p),http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1624030201~exp=1624116601~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=1b1d41469130eb54dce87fd98c60d9ea55d99e3be20e2b3412c753a0301e6893&p=3321#http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1624030259~exp=1624116659~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=2f66820c62d563f65493ebee2d611c73fd257d2eb9f31310aa73aafdeabbd74f&p=3321#http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1624030325~exp=1624116725~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=312805a707791a0eb4d01fde1a713a0b4a9ba4fd3f6ac21ae12aa53c99466871&p=3321
+無線新聞(1080p),http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1624117264~exp=1624203664~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=a86ed8e12df5988ff47117b680a27ad2d353819b62690176a359a5735848bcb2&p=3321
 無線新聞(1080p),https://hk1.chaojidianshi.net/hls/83/index.m3u8
 無線新聞(1080p),https://cdn.hkdtmb.com/hls/83/index.m3u8
 無線新聞(1080p),http://185.207.176.189:8080/channels/tv-83/mpeg.2ts
