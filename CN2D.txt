@@ -34,7 +34,7 @@ J2(1080p),https://cdn.hkdtmb.com/hls/82/index.m3u8
 J2(1080p),http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
 J2(1080p),http://hk.qqdszb.com/82/index.m3u8
 
-無線新聞(1080p),http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1624211981~exp=1624298381~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=984e561b06e9ba0084a3cb6072f7143a70443fd97bfd4fde1e02d80545c7182a&p=3321
+無線新聞(1080p),http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1624298695~exp=1624385095~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=a50cd14e64b2cd439fbaedf6d70fc477d6dcbdf89f5bd891f96cb8944a4abee9&p=3321
 無線新聞(1080p),https://hk1.chaojidianshi.net/hls/83/index.m3u8
 無線新聞(1080p),https://cdn.hkdtmb.com/hls/83/index.m3u8
 無線新聞(1080p),http://185.207.176.189:8080/channels/tv-83/mpeg.2ts
