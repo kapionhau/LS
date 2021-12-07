@@ -1,13 +1,18 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2021-06-22=,
+=2021-12-07=,
 ☆表示可能无声,
 ✈可能需要科网,
 频道无法播放,
 切换其他频道,
 源提示加微信,
 請不要添加,
+
+
+自家優選,#genre#
+無線新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
+無線新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
 
 🇭🇰,#genre#
 
@@ -34,11 +39,9 @@ J2(1080p),https://cdn.hkdtmb.com/hls/82/index.m3u8
 J2(1080p),http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
 J2(1080p),http://hk.qqdszb.com/82/index.m3u8
 
-無線新聞(1080p),http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1624298695~exp=1624385095~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=a50cd14e64b2cd439fbaedf6d70fc477d6dcbdf89f5bd891f96cb8944a4abee9&p=3321
-無線新聞(1080p),https://hk1.chaojidianshi.net/hls/83/index.m3u8
-無線新聞(1080p),https://cdn.hkdtmb.com/hls/83/index.m3u8
-無線新聞(1080p),http://185.207.176.189:8080/channels/tv-83/mpeg.2ts
-無線新聞(1080p),http://hk.qqdszb.com/83/index.m3u8
+
+無線新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
+無線新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
 
 無線財經資訊(1080p),https://hk1.chaojidianshi.net/hls/85/index.m3u8
 無線財經資訊(1080p),https://cdn.hkdtmb.com/hls/85/index.m3u8
