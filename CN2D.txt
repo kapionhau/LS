@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2021-12-07=,
+=2021-12-09=,
 ☆表示可能无声,
 ✈可能需要科网,
 频道无法播放,
@@ -12,6 +12,7 @@
 
 自家優選,#genre#
 無線新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
+無線新聞(720p),http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 無線新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
 
 🇭🇰,#genre#
@@ -19,67 +20,43 @@
 華麗翡翠台(720p),http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 
 
-翡翠台(1080p),https://hk1.chaojidianshi.net/hls/81/index.m3u8
-翡翠台(1080p),https://cdn.hkdtmb.com/hls/81/index.m3u8?&有時會卡
-翡翠台(1080p),http://185.207.176.189:8080/channels/tv-81/mpeg.2ts?&有點卡且可能花屏
-翡翠台(1080p),http://hk.qqdszb.com/81/index.m3u8
+
 翡翠台(1080p),http://61.238.6.49:8000/bysid/1?&花屏且卡
 翡翠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 
 
-明珠台(1080p),https://hk1.chaojidianshi.net/hls/84/index.m3u8
-明珠台(1080p),https://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台(1080p),http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
-明珠台(1080p),http://hk.qqdszb.com/84/index.m3u8
+明珠台(720p),http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 明珠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 
 
-J2(1080p),https://hk1.chaojidianshi.net/hls/82/index.m3u8
-J2(1080p),https://cdn.hkdtmb.com/hls/82/index.m3u8
-J2(1080p),http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
-J2(1080p),http://hk.qqdszb.com/82/index.m3u8
-
+J2(720p),http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 
 無線新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
 無線新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
 
-無線財經資訊(1080p),https://hk1.chaojidianshi.net/hls/85/index.m3u8
-無線財經資訊(1080p),https://cdn.hkdtmb.com/hls/85/index.m3u8
-無線財經資訊(1080p),http://185.207.176.189:8080/channels/tv-85/mpeg.2ts
-無線財經資訊(1080p),http://hk.qqdszb.com/85/index.m3u8
+
+無線財經資訊(720p),http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 
 
 有線新聞(720p),http://93.qqdszb.com/hkcnews_twn/playlist.m3u8
-有線新聞(720p),http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 
 
-ViuTV(1080p),https://hk1.chaojidianshi.net/hls/99/index.m3u8
-ViuTV(1080p),https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV(1080p),http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+
 ViuTV(1080p),http://hk.qqdszb.com/99/index.m3u8
 
 
-ViuTV 6(1080p),https://hk1.chaojidianshi.net/hls/96/index.m3u8
-ViuTV 6(1080p),https://cdn.hkdtmb.com/hls/96/index.m3u8
-ViuTV 6(1080p),http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
 ViuTV 6(1080p),http://hk.qqdszb.com/96/index.m3u8
 
 
-RTHK 31(1080p),https://hk1.chaojidianshi.net/hls/31/index.m3u8
-RTHK 31(1080p),https://cdn.hkdtmb.com/hls/31/index.m3u8
-RTHK 31(1080p),http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
+
 RTHK 31(1080p),http://hk.qqdszb.com/31/index.m3u8
 
 
-RTHK 32(1080p),https://hk1.chaojidianshi.net/hls/32/index.m3u8
-RTHK 32(1080p),https://cdn.hkdtmb.com/hls/32/index.m3u8
-RTHK 32(1080p),http://185.207.176.189:8080/channels/tv-32/mpeg.2ts
+
 RTHK 32(1080p),http://hk.qqdszb.com/32/index.m3u8
 
 
-RTHK 33(1080p),https://hk1.chaojidianshi.net/hls/33/index.m3u8
-RTHK 33(1080p),https://cdn.hkdtmb.com/hls/33/index.m3u8
-RTHK 33(1080p),http://185.207.176.189:8080/channels/tv-33/mpeg.2ts
+
 RTHK 33(1080p),http://hk.qqdszb.com/33/index.m3u8
 
 
@@ -98,18 +75,29 @@ RTHK 33(1080p),http://hk.qqdszb.com/33/index.m3u8
 
 
 🇹🇼,#genre#
+民視 HD(1080p),http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8?token=
+民視 HD(720p),http://50.7.61.147:30080/Entry/ftv
 民視 HD(720p),rtmp://59.124.75.130/sat/tv051
 民視(404p),rtmp://59.124.75.130/sat/tv052
 
+台視 HD(1080p),hhttp://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8?token=
+台視 HD(720p),http://50.7.61.148:30080/Entry/ttv
 台視 HD(720p),rtmp://59.124.75.130/sat/tv071
 台視(404p),rtmp://59.124.75.130/sat/tv072
 
+中視 HD(1080p),http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8?token=
+中視 HD(720p),http://50.7.61.148:30080/Entry/ctv
 中視 HD(720p),rtmp://59.124.75.130/sat/tv091
 中視(404p),rtmp://59.124.75.130/sat/tv092
 
+華視 HD(1080p),http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8?token=
+華視 HD(720p),http://50.7.61.147:30080/Entry/cts
 華視 HD(720p),rtmp://59.124.75.130/sat/tv111
 華視(404p),rtmp://59.124.75.130/sat/tv112
 
+公視 HD(1080p),http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch50.m3u8?token=
+
+TVBS歡樂台(720p),http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 TVBS歡樂台(720p),rtmp://59.124.75.130/sat/tv421
 TVBS歡樂台(408p),rtmp://59.124.75.130/sat/tv422
 
