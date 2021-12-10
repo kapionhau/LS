@@ -116,7 +116,7 @@ RTHK 33(1080p),http://hk.qqdszb.com/33/index.m3u8
 
 公視 HD(1080p),http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch50.m3u8?token=
 
-
+民視新聞台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
 民視新聞台(1080p),http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
 民視新聞台(720p),http://50.7.61.148:30080/Entry/ftvnews
 
@@ -266,6 +266,7 @@ JET綜合(720p),http://50.7.61.147:30080/Entry/jet
 
 龍華偶像(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
 龍華偶像(1080p),http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
+
 
 龍華卡通(720p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 
