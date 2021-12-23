@@ -25,6 +25,7 @@
 
 爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 
+翡翠台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
 翡翠台(1080p),http://61.238.6.49:8000/bysid/1?&花屏且卡
 翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7
 翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#mitv://ns2.hellotvvod.com:9906/279032f76ae6465d9f6aff532770787f
