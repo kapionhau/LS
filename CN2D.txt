@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2021-12-10=,
+=2021-12-23=,
 ☆表示可能无声,
 ✈可能需要科网,
 频道无法播放,
@@ -9,67 +9,92 @@
 源提示加微信,
 請不要添加,
 
-
 自家優選,#genre#
-無線新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
-無線新聞(720p),http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-無線新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
+無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
+無綫新聞(720p),http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+無綫新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
+無綫新聞,p5p://fccs.123178.top:9906/615adefa000969a80447270684f41d26
+無綫新聞,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51#mitv://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef
 
-無線新聞海外(1080p),http://iptv.tvfix.org/hls/inews.m3u8
+無綫新聞海外(1080p),http://iptv.tvfix.org/hls/inews.m3u8
 
 🇭🇰,#genre#
 
 華麗翡翠台(720p),http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+華麗翡翠台,mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
 
-
+爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 
 翡翠台(1080p),http://61.238.6.49:8000/bysid/1?&花屏且卡
+翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7
+翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#mitv://ns2.hellotvvod.com:9906/279032f76ae6465d9f6aff532770787f
 翡翠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 
 
 明珠台(720p),http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+明珠台,p5p://fccs.123178.top:9906/615ae1300007f909044fc997428426ad
+明珠台,mitv://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
 明珠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 
 
 J2(720p),http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
+J2,p5p://fccs.123178.top:9906/615ae0af000c0802044dd2b9392f9b13
+J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 
-無線新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
-無線新聞(720p),http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-無線新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
+無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
+無綫新聞(720p),http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+無綫新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
+無綫新聞,p5p://fccs.123178.top:9906/615adefa000969a80447270684f41d26
+無綫新聞,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51#mitv://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef
 
-無線新聞海外(1080p),http://iptv.tvfix.org/hls/inews.m3u8
+無綫新聞海外(1080p),http://iptv.tvfix.org/hls/inews.m3u8
 
-無線財經資訊(720p),http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+無綫財經資訊(720p),http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+無綫財經資訊,mitv://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
 
 
 有線新聞(720p),http://93.qqdszb.com/hkcnews_twn/playlist.m3u8
+有線新聞,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
+有線新聞,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
 
+有線財經資訊,p5p://fccs.123178.top:9906/615cf3de000200420c68bfc0bce964e3
+有線財經資訊,mitv://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
 
 
 ViuTV(1080p),http://hk.qqdszb.com/99/index.m3u8
-
+ViuTV,p5p://fccs.123178.top:9906/615ae21f000542fd04536e7d15caf57f
+ViuTV,mitv://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
 
 ViuTV 6(1080p),http://hk.qqdszb.com/96/index.m3u8
-
+ViuTV 6,p5p://fccs.123178.top:9906/6159c5d9000848ff19fce09318840f2c
+ViuTV 6,mitv://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
 
 
 RTHK 31(1080p),http://hk.qqdszb.com/31/index.m3u8
-
+RTHK 31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 
 
 RTHK 32(1080p),http://hk.qqdszb.com/32/index.m3u8
-
+RTHK 32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 
 
 RTHK 33(1080p),http://hk.qqdszb.com/33/index.m3u8
 
 
 有線體育台(720p),rtmp://59.124.75.130/sat/hk021
+有線體育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
 有線體育台(408p),rtmp://59.124.75.130/sat/hk022
 
+Sports Plus 1,p5p://fccs.123178.top:9906/615cf47c000780400c6b2a5874b20000
+Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
+
 有線18台(720p),rtmp://59.124.75.130/sat/hk041
+有線18台,p5p://fccs.123178.top:9906/615cf3b20004e4390c68149d25db8dc8
+有線18台,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
 有線18台(408p),rtmp://59.124.75.130/sat/hk042
 
+有線603台,p5p://fccs.123178.top:9906/60ed1cd4000297a20faf48d5542663e4
+有線603台,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
 
 🇲🇴,#genre#
 澳視澳門(720p),http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8#http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8#http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
