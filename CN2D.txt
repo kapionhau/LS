@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2021-12-23=,
+=2021-12-26=,
 ☆表示可能无声,
 ✈可能需要科网,
 频道无法播放,
@@ -240,6 +240,7 @@ TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
 
 龍華電影(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
 龍華電影(1080p),http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
+龍華電影(1080p),http://27.47.68.110:808/hls/38/index.m3u8
 龍華電影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
 
 龍華洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
@@ -247,9 +248,11 @@ TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
 影迷數位電影台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
 影迷數位電影台,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
 
+東森電影(1080p),http://27.47.68.110:808/hls/58/index.m3u8
 東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
 東森電影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
 
+東森洋片(1080p),http://27.47.68.110:808/hls/59/index.m3u8
 東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
 東森洋片,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
 
