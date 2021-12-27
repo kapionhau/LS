@@ -11,7 +11,7 @@
 
 自家優選,#genre#
 無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
-&?無綫新聞(720p),http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+無綫新聞(720p)&?http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 無綫新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
 無綫新聞,p5p://fccs.123178.top:9906/615adefa000969a80447270684f41d26
 無綫新聞,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51#mitv://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef
