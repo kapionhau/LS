@@ -10,14 +10,13 @@
 請不要添加,
 
 自家優選,#genre#
-無綫新聞(720p),https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8
+無綫新聞(720p),https://t19b.ggiptv.com/live/inews/index.m3u8?session=srefxqoyl5r9l4o11fdetf2gfq34z7mw#https://t14b.ggiptv.com/live/inews/index.m3u8?session=2fpbpba0sm2e2ru810pls3xbrf4oh34l#https://t8b.ggiptv.com/live/inews/index.m3u8?session=jcuoysndprtc03oref98annh8qq9vdj4#https://t17b.ggiptv.com/live/inews/index.m3u8?session=yddxnsro7izzf4uz4je84kfi94y9ohms#https://t17a.ggiptv.com/live/inews/index.m3u8?session=edzyzie6qhzequa0y2z9ht4ifw1x15t3#https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8#https://t17b.ggiptv.com/live/inews/index.m3u8?session=tzkdcao8kualtczqzceqtmtfx705l9m8#https://t17b.ggiptv.com/live/inews/index.m3u8?session=bf7irecc2yseziw94ahoihtui9slkc5n#https://t8b.ggiptv.com/live/inews/index.m3u8?session=7e4gs3httnrvcapzo581rsmf1wiz66k1
 無綫新聞(720p),http://ye23.win/iptv/tvb.php?id=1
 無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
 無綫新聞,p5p://fccs.123178.top:9906/615adefa000969a80447270684f41d26
 無綫新聞,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51#mitv://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef
 
-有線新聞(720p),https://pull-hls-l1.ixigua.com/live/1648b85a3910305c54f041b9708f0017/playlist.m3u8
-有線新聞(720p),https://pull-hls-l1.ixigua.com/live/1648b85a3910305c54f041b9708f0017/playlist.m3u8
+有線新聞(720p),https://pull-hls-l1.ixigua.com/live/94078c77b1c8dbc72362f4348792e0ff/playlist.m3u8#https://pull-hls-l1.ixigua.com/live/1648b85a3910305c54f041b9708f0017/playlist.m3u8
 有線新聞(720p),http://93.qqdszb.com/hkcnews_twn/playlist.m3u8
 有線新聞,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
 有線新聞,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
@@ -53,9 +52,9 @@ J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 
 無綫新聞(1080p),http://iptv.tvfix.org/hls/inews.m3u8
 無綫新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14/14
-無綫新聞(720p),https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8
-無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
+無綫新聞(720p),https://t8b.ggiptv.com/live/inews/index.m3u8?session=jcuoysndprtc03oref98annh8qq9vdj4#https://t17b.ggiptv.com/live/inews/index.m3u8?session=yddxnsro7izzf4uz4je84kfi94y9ohms#https://t17a.ggiptv.com/live/inews/index.m3u8?session=edzyzie6qhzequa0y2z9ht4ifw1x15t3#https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8#https://t17b.ggiptv.com/live/inews/index.m3u8?session=tzkdcao8kualtczqzceqtmtfx705l9m8#https://t17b.ggiptv.com/live/inews/index.m3u8?session=bf7irecc2yseziw94ahoihtui9slkc5n#https://t8b.ggiptv.com/live/inews/index.m3u8?session=7e4gs3httnrvcapzo581rsmf1wiz66k1
 無綫新聞(720p),http://ye23.win/iptv/tvb.php?id=1
+無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
 無綫新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
 無綫新聞,p5p://fccs.123178.top:9906/615adefa000969a80447270684f41d26
 無綫新聞,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51#mitv://ns2.hellotvvod.com:9906/92b7235ae2a54766a2acb97e5f7a64ef
@@ -68,7 +67,7 @@ J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 
 
 有線新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
-有線新聞(720p),https://pull-hls-l1.ixigua.com/live/1648b85a3910305c54f041b9708f0017/playlist.m3u8
+有線新聞(720p),https://pull-hls-l1.ixigua.com/live/94078c77b1c8dbc72362f4348792e0ff/playlist.m3u8#https://pull-hls-l1.ixigua.com/live/1648b85a3910305c54f041b9708f0017/playlist.m3u8
 有線新聞(720p),http://93.qqdszb.com/hkcnews_twn/playlist.m3u8
 有線新聞,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
 有線新聞,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
