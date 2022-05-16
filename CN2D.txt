@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2022-05-15=,
+=2022-05-16=,
 ☆表示可能无声,
 ✈可能需要科网,
 频道无法播放,
@@ -12,7 +12,7 @@
 自家優選,#genre#
 無綫新聞(1080p),mitv://ns2.hellotvvod.com:9906/44ebc38b76fd45228616e077fe9078ea.ts#mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
 無綫新聞(1080p),http://radius.8866.org:880/hls/82/index.m3u8
-無綫新聞(720p),https://t19b.ggiptv.com/live/inews/index.m3u8?session=srefxqoyl5r9l4o11fdetf2gfq34z7mw#https://t14b.ggiptv.com/live/inews/index.m3u8?session=2fpbpba0sm2e2ru810pls3xbrf4oh34l#https://t8b.ggiptv.com/live/inews/index.m3u8?session=jcuoysndprtc03oref98annh8qq9vdj4#https://t17b.ggiptv.com/live/inews/index.m3u8?session=yddxnsro7izzf4uz4je84kfi94y9ohms#https://t17a.ggiptv.com/live/inews/index.m3u8?session=edzyzie6qhzequa0y2z9ht4ifw1x15t3#https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8#https://t17b.ggiptv.com/live/inews/index.m3u8?session=tzkdcao8kualtczqzceqtmtfx705l9m8#https://t17b.ggiptv.com/live/inews/index.m3u8?session=bf7irecc2yseziw94ahoihtui9slkc5n#https://t8b.ggiptv.com/live/inews/index.m3u8?session=7e4gs3httnrvcapzo581rsmf1wiz66k1
+無綫新聞(720p),https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8
 無綫新聞(720p),http://111.229.84.232/yulin/tvb.php?id=1
 無綫新聞(720p),http://ye23.win/iptv/tvb.php?id=1
 無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
@@ -57,7 +57,7 @@ J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 
 無綫新聞(1080p),mitv://ns2.hellotvvod.com:9906/44ebc38b76fd45228616e077fe9078ea.ts#mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
 無綫新聞(1080p),http://radius.8866.org:880/hls/82/index.m3u8
-無綫新聞(720p),https://t19b.ggiptv.com/live/inews/index.m3u8?session=srefxqoyl5r9l4o11fdetf2gfq34z7mw#https://t14b.ggiptv.com/live/inews/index.m3u8?session=2fpbpba0sm2e2ru810pls3xbrf4oh34l#https://t8b.ggiptv.com/live/inews/index.m3u8?session=jcuoysndprtc03oref98annh8qq9vdj4#https://t17b.ggiptv.com/live/inews/index.m3u8?session=yddxnsro7izzf4uz4je84kfi94y9ohms#https://t17a.ggiptv.com/live/inews/index.m3u8?session=edzyzie6qhzequa0y2z9ht4ifw1x15t3#https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8#https://t17b.ggiptv.com/live/inews/index.m3u8?session=tzkdcao8kualtczqzceqtmtfx705l9m8#https://t17b.ggiptv.com/live/inews/index.m3u8?session=bf7irecc2yseziw94ahoihtui9slkc5n#https://t8b.ggiptv.com/live/inews/index.m3u8?session=7e4gs3httnrvcapzo581rsmf1wiz66k1
+無綫新聞(720p),https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8
 無綫新聞(720p),http://ye23.win/iptv/tvb.php?id=1
 無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
 無綫新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?&有點卡
