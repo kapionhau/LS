@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2022-05-16=,
+=2022-08-17=,
 ☆表示可能无声,
 ✈可能需要科网,
 频道无法播放,
@@ -10,61 +10,45 @@
 請不要添加,
 
 自家優選,#genre#
-無綫新聞(1080p),mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
-無綫新聞(1080p),mitv://ns2.hellotvvod.com:9906/44ebc38b76fd45228616e077fe9078ea.ts#mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
-無綫新聞(1080p),http://radius.8866.org:880/hls/82/index.m3u8
-無綫新聞(1080p),https://cdn.hklive.tv/hls/83/index.m3u8?$網絡影響
-無綫新聞(720p),https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8
-無綫新聞(720p),http://111.229.84.232/yulin/tvb.php?id=1
-無綫新聞(720p),http://ye23.win/iptv/tvb.php?id=1#http://ye23.win/iptv/tvb.php?id=4#http://ye23.win/iptv/tvb.php?id=5
-無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
-無綫新聞(720p),http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669?$不穩定
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
+無綫新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
 無綫新聞,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
 無綫新聞,p2p://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
 無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
 無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$有時較卡
 
 
+無綫新聞$待測https://cdn.hklive.tv/hls/83/index.m3u8
+互動新聞$待測mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
+互動新聞$待測mitv://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17
 
-無綫新聞待測,https://cdn.hklive.tv/hls/83/index.m3u8
+
 無綫新聞海外版,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-無綫新聞海外版,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 無綫新聞海外版,http://111.229.84.232/yulin/tvb.php?id=1
 
-互動新聞待測,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
-互動新聞待測,mitv://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 
-
-無綫新聞海外(720p),https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-
-有線新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
-有線新聞(720p),https://pull-hls-l1.ixigua.com/live/94078c77b1c8dbc72362f4348792e0ff/playlist.m3u8#https://pull-hls-l1.ixigua.com/live/1648b85a3910305c54f041b9708f0017/playlist.m3u8
-有線新聞(720p),mitv://ns2.hellotvvod.com:9906/41a80a6c4fe742f196925c5429c4754d.ts
 
 
 🇭🇰港,#genre#
 
-華麗翡翠台(1080p),http://iptv.tvfix.org/hls/jadenhk.m3u8
-華麗翡翠台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH6/6
-華麗翡翠台(720p),http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-華麗翡翠台,mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
 
-爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
+華麗翡翠台$待添加
 
-翡翠台(1080p),http://iptv.tvfix.org/hls/jade.m3u8#http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
-翡翠台(1080p),http://61.238.6.49:8000/bysid/1?$花屏且卡
-翡翠台,p5p://fccs.123178.top:9906/615ae0360009eda6044bf987e8d620d7
-翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#mitv://ns2.hellotvvod.com:9906/279032f76ae6465d9f6aff532770787f
-翡翠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+爆谷台$待添加
 
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+翡翠台,http://113.64.147.33:808/hls/67/index.m3u8
+翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
+翡翠台,http://120.84.96.195:808/hls/25/index.m3u8$標清#http://113.64.147.33:808/hls/25/index.m3u8$標清
+翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8$備用
+翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f$備用
 
-明珠台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH5/5
-明珠台(720p),http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
-明珠台,p5p://fccs.123178.top:9906/615ae1300007f909044fc997428426ad
-明珠台,mitv://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
-明珠台(576p),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+明珠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze7CNOJOFauZ0AShwAHr7Wt4
+明珠台,https://cdn.hklive.tv/hls/84/index.m3u8#https://cdn.hklive.tv/hls/84b/index.m3u8
+明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8$有時較卡
+明珠台,http://120.84.96.222:808/hls/26/index.m3u8$標清
+明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8$標清卡頓
 
 J2(1080p),http://iptv.tvfix.org/hls/j2.m3u8
 J2(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
@@ -72,28 +56,30 @@ J2(720p),http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 J2,p5p://fccs.123178.top:9906/615ae0af000c0802044dd2b9392f9b13
 J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 
-無綫新聞(1080p),mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
-無綫新聞(1080p),mitv://ns2.hellotvvod.com:9906/44ebc38b76fd45228616e077fe9078ea.ts#mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
-無綫新聞(1080p),http://radius.8866.org:880/hls/82/index.m3u8
-無綫新聞(1080p),https://cdn.hklive.tv/hls/83/index.m3u8?$網絡影響
-無綫新聞(720p),https://pull-hls-l1.ixigua.com/live/50bff5d11ad60e9470efb9eb05437ae8/playlist.m3u8
-無綫新聞(720p),http://ye23.win/iptv/tvb.php?id=1
-無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
-無綫新聞(720p),http://kkmix1.f3322.net:762/hls/ch2/s.m3u8?$有點卡
-無綫新聞(720p),http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669?$不穩定
+無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
+無綫新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+無綫新聞,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
+無綫新聞,p2p://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
+無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
+無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$有時較卡
+無綫新聞,mitv://ns2.hellotvvod.com:9906/44ebc38b76fd45228616e077fe9078ea.ts#mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
+無綫新聞,http://ye23.win/iptv/tvb.php?id=1
+無綫新聞,http://159.75.123.131/xiaoqi/tvb.php?id=1
+無綫新聞,http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669$不穩定
 
 
-無綫新聞海外(720p),https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-無綫新聞海外(1080p),http://iptv.tvfix.org/hls/inews.m3u8
+無綫新聞海外版,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+無綫新聞海外版,http://111.229.84.232/yulin/tvb.php?id=1
+無綫新聞海外版,http://iptv.tvfix.org/hls/inews.m3u8
 
 無綫財經資訊(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH15/15
 無綫財經資訊(720p),http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 無綫財經資訊,mitv://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
 
-
-有線新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
-有線新聞(720p),https://pull-hls-l1.ixigua.com/live/94078c77b1c8dbc72362f4348792e0ff/playlist.m3u8#https://pull-hls-l1.ixigua.com/live/1648b85a3910305c54f041b9708f0017/playlist.m3u8
-有線新聞(720p),mitv://ns2.hellotvvod.com:9906/41a80a6c4fe742f196925c5429c4754d.ts
+有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+有線新聞,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
+有線新聞,https://pull-hls-l1.ixigua.com/live/94078c77b1c8dbc72362f4348792e0ff/playlist.m3u8#https://pull-hls-l1.ixigua.com/live/1648b85a3910305c54f041b9708f0017/playlist.m3u8
+有線新聞,mitv://ns2.hellotvvod.com:9906/41a80a6c4fe742f196925c5429c4754d.ts
 有線新聞,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
 有線新聞,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
 
@@ -717,3 +703,5 @@ Cinemax,p8p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
 CinemaWorld,p8p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
 CatchPlay電影台,p8p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594 .ts
 
+待定分類,,#genre#
+TVBJ1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/playlist.m3u8$有時較卡
