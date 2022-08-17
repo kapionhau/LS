@@ -29,7 +29,6 @@
 有線新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 
 
-
 🇭🇰港,#genre#
 
 
@@ -75,11 +74,6 @@ J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=
 有線新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 有線新聞,https://api.leonardpark.dev/live/icable/109
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8$備用
-
-
-有線財經資訊(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH149/149
-有線財經資訊,p5p://fccs.123178.top:9906/615cf3de000200420c68bfc0bce964e3
-有線財經資訊,mitv://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
 
 ViuTV(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH16/16
 ViuTV(1080p),http://hk.qqdszb.com/99/index.m3u8
