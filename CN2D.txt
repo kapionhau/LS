@@ -26,7 +26,7 @@
 無綫新聞海外版,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 無綫新聞海外版,http://111.229.84.232/yulin/tvb.php?id=1
 
-有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+有線新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
 
 
 
@@ -50,11 +50,9 @@
 明珠台,http://120.84.96.222:808/hls/26/index.m3u8$標清
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8$標清卡頓
 
-J2(1080p),http://iptv.tvfix.org/hls/j2.m3u8
-J2(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
-J2(720p),http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
-J2,p5p://fccs.123178.top:9906/615ae0af000c0802044dd2b9392f9b13
-J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
+J2,https://cdn.hklive.tv/hls/82/index.m3u8
+J2,http://120.84.96.75:808/hls/86/index.m3u8
+J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e$備用卡頓
 
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
@@ -72,16 +70,12 @@ J2,mitv://ns2.hellotvvod.com:9906/4b20b6d78e904b779ff16c0b10d6c3e4
 無綫新聞海外版,http://111.229.84.232/yulin/tvb.php?id=1
 無綫新聞海外版,http://iptv.tvfix.org/hls/inews.m3u8
 
-無綫財經資訊(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH15/15
-無綫財經資訊(720p),http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-無綫財經資訊,mitv://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
+無綫財經資訊,https://cdn.hklive.tv/hls/85/index.m3u8
 
-有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
-有線新聞,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
-有線新聞,https://pull-hls-l1.ixigua.com/live/94078c77b1c8dbc72362f4348792e0ff/playlist.m3u8#https://pull-hls-l1.ixigua.com/live/1648b85a3910305c54f041b9708f0017/playlist.m3u8
-有線新聞,mitv://ns2.hellotvvod.com:9906/41a80a6c4fe742f196925c5429c4754d.ts
-有線新聞,p5p://fccs.123178.top:9906/60ed1721000502290f99063cfc1e9344
-有線新聞,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
+有線新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+有線新聞,https://api.leonardpark.dev/live/icable/109
+有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8$備用
+
 
 有線財經資訊(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH149/149
 有線財經資訊,p5p://fccs.123178.top:9906/615cf3de000200420c68bfc0bce964e3
@@ -152,7 +146,7 @@ TVB星河,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH10/
 澳視資訊(720p),http://103.233.191.132:1935/ch5/info_ch5.live/playlist.m3u8#http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8#http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 
 🇹🇼台,#genre#
-豬哥亮歌廳秀(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
+豬哥亮歌廳秀$待添加
 
 民視 HD(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH119/119
 民視 HD(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
