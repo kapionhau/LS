@@ -19,6 +19,21 @@
 無綫新聞(720p),http://ye23.win/iptv/tvb.php?id=1#http://ye23.win/iptv/tvb.php?id=4#http://ye23.win/iptv/tvb.php?id=5
 無綫新聞(720p),http://159.75.123.131/xiaoqi/tvb.php?id=1
 無綫新聞(720p),http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669?$不穩定
+無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
+無綫新聞,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
+無綫新聞,p2p://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
+無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
+無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$有時較卡
+
+
+
+無綫新聞待測,https://cdn.hklive.tv/hls/83/index.m3u8
+無綫新聞海外版,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+無綫新聞海外版,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+無綫新聞海外版,http://111.229.84.232/yulin/tvb.php?id=1
+
+互動新聞待測,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
+互動新聞待測,mitv://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17
 
 
 無綫新聞海外(720p),https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
