@@ -10,8 +10,8 @@
 請不要添加,
 
 自家優選,#genre#
-無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
 無綫新聞,p2p://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
 無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
@@ -54,8 +54,8 @@ J2,https://cdn.hklive.tv/hls/82/index.m3u8
 J2,http://120.84.96.75:808/hls/86/index.m3u8
 J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e$備用卡頓
 
-無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
 無綫新聞,p2p://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
 無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
