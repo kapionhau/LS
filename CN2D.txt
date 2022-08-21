@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2022-08-21=,
+=2022-08-22=,
 ☆表示可能无声,
 ✈可能需要科网,
 频道无法播放,
@@ -11,17 +11,18 @@
 
 自家優選,#genre#
 無綫新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+無綫新聞,mitv://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17
+無綫新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
 無綫新聞,p2p://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
 無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
-無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$有時較卡
+無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$備用
+無綫新聞,https://cdn.hklive.tv/hls/83/index.m3u8$備用
+無綫新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$備用
+
 
 TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8$受網絡商影響#https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=a55722967e64b240ffb60778aeb73019_1661180205_1661180205&p=3324$受網絡商影響
-
-無綫新聞$待測https://cdn.hklive.tv/hls/83/index.m3u8
-互動新聞$待測mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
-互動新聞$待測mitv://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17
 
 
 無綫新聞海外版,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
@@ -55,11 +56,15 @@ J2,http://120.84.96.75:808/hls/86/index.m3u8
 J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e$備用卡頓
 
 無綫新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+無綫新聞,mitv://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17
+無綫新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
 無綫新聞,p2p://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
 無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
-無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$有時較卡
+無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$備用
+無綫新聞,https://cdn.hklive.tv/hls/83/index.m3u8$備用
+無綫新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$備用
 無綫新聞,mitv://ns2.hellotvvod.com:9906/44ebc38b76fd45228616e077fe9078ea.ts#mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
 無綫新聞,http://ye23.win/iptv/tvb.php?id=1
 無綫新聞,http://159.75.123.131/xiaoqi/tvb.php?id=1
