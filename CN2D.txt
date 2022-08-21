@@ -11,15 +11,14 @@
 
 自家優選,#genre#
 無綫新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+無綫新聞,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze5uSEj2QgX70JGc2TYZz3FM
 無綫新聞,mitv://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17
 無綫新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
 無綫新聞,p2p://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
-無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
 無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$備用
 無綫新聞,https://cdn.hklive.tv/hls/83/index.m3u8$備用
-無綫新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$備用
 
 
 TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8$受網絡商影響#https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=a55722967e64b240ffb60778aeb73019_1661180205_1661180205&p=3324$受網絡商影響
@@ -29,6 +28,8 @@ TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11e
 無綫新聞海外版,http://111.229.84.232/yulin/tvb.php?id=1
 
 有線新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+有線新聞,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze9bT0dzcwkQqglDUH5RBHgM
+
 
 
 🇭🇰港,#genre#
@@ -36,8 +37,10 @@ TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11e
 
 華麗翡翠台$待添加
 
-爆谷台$待添加
+爆谷台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
 
+翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+翡翠台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze19nX0CPUCMayWc4hh8Svqw
 翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
 翡翠台,http://113.64.147.33:808/hls/67/index.m3u8
 翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
@@ -45,26 +48,28 @@ TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11e
 翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8$備用
 翡翠台,P2p://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f$備用
 
+明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
+明珠台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze7CNOJOFauZ0AShwAHr7Wt4
 明珠台,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze7CNOJOFauZ0AShwAHr7Wt4
 明珠台,https://cdn.hklive.tv/hls/84/index.m3u8#https://cdn.hklive.tv/hls/84b/index.m3u8
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8$有時較卡
 明珠台,http://120.84.96.222:808/hls/26/index.m3u8$標清
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8$標清卡頓
 
-J2,https://cdn.hklive.tv/hls/82/index.m3u8
+J2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
+J2,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzeyk0kRA5PnWUIxfYKm0BcZ8
 J2,http://120.84.96.75:808/hls/86/index.m3u8
+J2,https://cdn.hklive.tv/hls/82/index.m3u8$備用
 J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e$備用卡頓
 
 無綫新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+無綫新聞,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze5uSEj2QgX70JGc2TYZz3FM
 無綫新聞,mitv://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17
 無綫新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
 無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://59.149.114.27:9981/stream/channelid/50929123?ticket=db661ead90a8e56dfd7b09676a22894cacd64cd4&profile=matroska
-無綫新聞,p2p://54.39.16.152:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
-無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
 無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$備用
 無綫新聞,https://cdn.hklive.tv/hls/83/index.m3u8$備用
-無綫新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$備用
 無綫新聞,mitv://ns2.hellotvvod.com:9906/44ebc38b76fd45228616e077fe9078ea.ts#mitv://ns2.hellotvvod.com:9906/e23b4b1c159f48b99fe6d1b515e4fe03.ts
 無綫新聞,http://ye23.win/iptv/tvb.php?id=1
 無綫新聞,http://159.75.123.131/xiaoqi/tvb.php?id=1
@@ -76,57 +81,69 @@ TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11e
 無綫新聞海外版,http://111.229.84.232/yulin/tvb.php?id=1
 無綫新聞海外版,http://iptv.tvfix.org/hls/inews.m3u8
 
+無綫財經資訊,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
+無綫財經資訊,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze6yNPXBqAv00zQY_SN6RmoQ
 無綫財經資訊,https://cdn.hklive.tv/hls/85/index.m3u8
 
 有線新聞,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+有線新聞,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze9bT0dzcwkQqglDUH5RBHgM
 有線新聞,https://api.leonardpark.dev/live/icable/109
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8$備用
 
-ViuTV(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH16/16
-ViuTV(1080p),http://hk.qqdszb.com/99/index.m3u8
-ViuTV,p5p://fccs.123178.top:9906/615ae21f000542fd04536e7d15caf57f
-ViuTV,mitv://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
+有線財經資訊,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+有線財經資訊,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze3sJQ4oBZg0BBw_FGeGC9os
 
-ViuTV 6(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH17/17
-ViuTV 6(1080p),http://hk.qqdszb.com/96/index.m3u8
-ViuTV 6,p5p://fccs.123178.top:9906/6159c5d9000848ff19fce09318840f2c
-ViuTV 6,mitv://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
+ViuTV,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/6
+ViuTV,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze007IYn8wyf4bDLwU3ze8CI
+ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
+ViuTV,http://kkmix2.f3322.net:770/hls/ch2/s.m3u8$備用
+ViuTV,http://120.132.122.244:59845/hls/86/index.m3u8$備用
+ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514$備用卡頓
+
+ViuTV 6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
+ViuTV 6,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzex8hn_KU1yaJgfyGQJm4gTY
+ViuTV 6,https://cdn.hklive.tv/hls/96/index.m3u8
+ViuTV 6,http://120.132.122.244:59845/hls/85/index.m3u8$備用
 
 
+RTHK 31,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1lV34Sj9rtmxMrKsqt3DSI
+RTHK 31,https://cdn.hklive.tv/hls/31/index.m3u8$備用
 RTHK 31(1080p),http://hk.qqdszb.com/31/index.m3u8
 RTHK 31,mitv://ns2.hellotvvod.com:9906/26306a6246814adbaec622fd114432ec
 
-
+RTHK 32,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze0OkqN2jcVHW8TB-S0JrdVc
+RTHK 32,https://cdn.hklive.tv/hls/32/index.m3u8$備用
 RTHK 32(1080p),http://hk.qqdszb.com/32/index.m3u8
 RTHK 32,mitv://ns2.hellotvvod.com:9906/dcd3e6336bec46168a990c3331cb8579
 
 
+RTHK 33,https://cdn.hklive.tv/hls/33/index.m3u8$備用
 RTHK 33(1080p),http://hk.qqdszb.com/33/index.m3u8
 
 
-有線體育台(720p),rtmp://59.124.75.138/sat/hk021#rtmp://59.124.75.157/sat/hk021
-有線體育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
+有線體育台$待添加mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
 
 Sports Plus 1,p5p://fccs.123178.top:9906/615cf47c000780400c6b2a5874b20000
 Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
 
-有線18台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH147/147
-有線18台(720p),rtmp://59.124.75.138/sat/hk041#rtmp://59.124.75.157/sat/hk041
-有線18台,p5p://fccs.123178.top:9906/615cf3b20004e4390c68149d25db8dc8
-有線18台,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
+有線18台,rtmp://59.124.75.138/sat/hk041
 
-有線603台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH148/148
-有線603台,p5p://fccs.123178.top:9906/60ed1cd4000297a20faf48d5542663e4
-有線603台,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+有線603台#待添加mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
 
-MyTV super(1080p),http://iptv.tvfix.org/hls/tvbjd.m3u8
-MyTV super(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH12/12
+MyTV super#待添加http://iptv.tvfix.org/hls/tvbjd.m3u8
 
-TVB星河,http://iptv.tvfix.org/hls/tvbxh.m3u8
-TVB星河,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH10/10
+TVB經典台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze53WLv53IMxpHZj9SFFJ_kQ
 
+TVB星河,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrMHIw
 
+NOW新聞台,https://2022.kg-live.com/live/01
+NOW新聞台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
+NOW新聞台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk
 
+NOW財經台,https://2022.kg-live.com/live/02
+
+香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8$備用
+香港開電視,https://cdn.hklive.tv/hls/77/index.m3u8$備用
 
 🇲🇴澳,#genre#
 澳視澳門(720p),http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8#http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8#http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
