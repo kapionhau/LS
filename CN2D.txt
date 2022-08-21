@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2022-08-17=,
+=2022-08-21=,
 ☆表示可能无声,
 ✈可能需要科网,
 频道无法播放,
@@ -17,8 +17,7 @@
 無綫新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17$有時可用
 無綫新聞,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8$有時較卡
 
-TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8
-TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=a55722967e64b240ffb60778aeb73019_1661180205_1661180205&p=3324
+TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8$受網絡商影響#https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=a55722967e64b240ffb60778aeb73019_1661180205_1661180205&p=3324$受網絡商影響
 
 無綫新聞$待測https://cdn.hklive.tv/hls/83/index.m3u8
 互動新聞$待測mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
@@ -66,6 +65,7 @@ J2,http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=
 無綫新聞,http://159.75.123.131/xiaoqi/tvb.php?id=1
 無綫新聞,http://50.7.218.42:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669$不穩定
 
+TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8$受網絡商影響#https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=a55722967e64b240ffb60778aeb73019_1661180205_1661180205&p=3324$受網絡商影響
 
 無綫新聞海外版,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 無綫新聞海外版,http://111.229.84.232/yulin/tvb.php?id=1
