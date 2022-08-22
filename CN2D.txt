@@ -23,6 +23,7 @@
 
 TVB-無綫新聞,https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8$受網絡商影響#https://hk4-edge29-1.edgeware.tvb.com/session/9d803d06-2161-11ed-a602-005056903a13/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?token=a55722967e64b240ffb60778aeb73019_1661180205_1661180205&p=3324$受網絡商影響
 
+https://edgeware-live2.edgeware.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/bks/__f/index.m3u8?sig=c9905331f1e267f830d77dbadd45ba3a&ext_start_limit=1661255302&int_start_limit=1661255302&ts=1661255302&c=multicdn&p=3324
 
 無綫新聞海外版,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 無綫新聞海外版,http://111.229.84.232/yulin/tvb.php?id=1
