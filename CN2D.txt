@@ -169,333 +169,214 @@ NOW財經台,https://2022.kg-live.com/live/02
 
 公視3,mitv://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
 
-民視新聞台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
-民視新聞台(1080p),http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-民視新聞台(720p),http://50.7.61.148:30080/Entry/ftvnews
-民視新聞台,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
-民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
-
-
-台視新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH26/26
-台視新聞(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051
-台視新聞,p5p://fccs.123178.top:9906/615cf168000ad47e0c5f2512951989aa
-台視新聞,mitv://ns2.hellotvvod.com:9906/ec46ca942a3a4c9292c0dee902f579bf
-
-台視財經,p5p://fccs.123178.top:9906/615cf1970005cb4c0c5fdb60d7e44abc
-台視財經,mitv://ns2.hellotvvod.com:9906/d8d1fa07f623422aae04f0e860f4bea3
-
-中視新聞,p5p://fccs.123178.top:9906/615ceea900061b6e0c5469c546672e4d
-
-華視新聞資訊(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052
-華視新聞資訊,mitv://ns2.hellotvvod.com:9906/412a06626d254822954dd29b235f9366
-華視新聞資訊,p5p://fccs.123178.top:9906/615cf34d0005241b0c668a26a861e2c8
-
-TVBS新聞台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072
-TVBS新聞台(1080p),http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
-TVBS新聞台(720p),rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.157/sat/tv551
-TVBS新聞台(720p),http://50.7.61.148:30080/Entry/tvbsnews
-TVBS新聞台,p5p://fccs.123178.top:9906/61494c2100042a180d6a3fdd3c19ba48
-TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
-
-年代新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH38/38
-年代新聞(1080p),http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,p5p://fccs.123178.top:9906/618894540002fa6c0186e66d066b3e56
-年代新聞,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
-
-東森新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH29/29
-東森新聞(1080p),http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-東森新聞(720p),http://50.7.61.147:30080/Entry/etnews
-東森新聞,p5p://fccs.123178.top:9906/6173ae660001b6721788b6c6ac08380c
-東森新聞,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
-
-東森財經新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH30/30
-東森財經新聞(1080p),http://211.23.114.106:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8
-東森財經新聞(720p),rtmp://59.124.75.138/sat/tv571#rtmp://59.124.75.157/sat/tv571
-東森財經新聞,p5p://fccs.123178.top:9906/61494d6b00007a520d6f47fbe773e0a5
-東森財經新聞,mitv://ns2.hellotvvod.com:9906/e992de48ddda440ebc55984766d0ab8f
-
-三立新聞(1080p),http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-三立新聞,p5p://fccs.123178.top:9906/61494b62000a82d50d67576561464ccf
-三立新聞,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
-
-中天新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH28/28
-中天新聞(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
-中天新聞(1080p),http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-中天新聞,p5p://fccs.123178.top:9906/6174fe8b000be03302ae798f40145c4c
-中天新聞,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
-
-壹新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH36/36
-壹新聞(1080p),http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-壹新聞(720p),http://50.7.61.147:30080/Entry/etv
-壹新聞,p5p://fccs.123178.top:9906/61494a29000d70560d62917d35be0fae
-壹新聞,mitv://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
-
-非凡新聞(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH37/37
-非凡新聞(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010
-非凡新聞,p5p://fccs.123178.top:9906/614991e2000e29550e7abc54c0c10ef6
-非凡新聞,mitv://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
-
-非凡商業(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
-非凡商業,mitv://ns2.hellotvvod.com:9906/ab4d36f3d889496a92747157c7e4c732
-
-寰宇新聞台(1080p),http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-寰宇新聞台,p5p://fccs.123178.top:9906/60434bdc0009a41d06d32342bef082c3.ts
-寰宇新聞台,mitv://ns2.hellotvvod.com:9906/7a095cbbff944242bd359bb0f32ac5f2
-
-寰宇新聞台灣台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
-寰宇新聞台灣台,mitv://ns2.hellotvvod.com:9906/b6a355771a7e4b469684732040c522f7
-
-靖天資訊台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH138/138
-靖天資訊台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv065
-靖天資訊台,p5p://fccs.123178.top:9906/6045b93800071301066e670ba6925741.ts
-
-衛視電影台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH93/93
-衛視電影台(1080p),http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
-衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
-衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
-
-好萊塢電影(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH79/79
-好萊塢電影(1080p),http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
-好萊塢電影,p5p://fccs.123178.top:9906/614953030008709d0d8523c592e3c647
-好萊塢電影,mitv://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
-
-緯來電影(1080p),http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-緯來電影,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
-緯來電影,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
-
-龍華電影(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
-龍華電影(1080p),http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
-龍華電影(1080p),http://27.47.68.110:808/hls/38/index.m3u8
-龍華電影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
-
-龍華洋片(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH86/86
-龍華洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts
-
-影迷數位電影台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
-影迷數位電影台,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
-
-東森電影(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH83/83
-東森電影(1080p),http://27.47.68.110:808/hls/58/index.m3u8
-東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
-東森電影,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
-
-東森洋片(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH84/84
-東森洋片(1080p),http://27.47.68.110:808/hls/59/index.m3u8
-東森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
-東森洋片,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
-
-龍祥時代(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH87/87
-龍祥時代,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-龍祥時代,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
-
-靖天電影,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
-
-民視台灣台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH120/120
-民視台灣台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
-民視台灣台,p5p://fccs.123178.top:9906/615cf04900025ed10c5ac1d0409f9eae
-民視第一台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH135/135
-民視第一台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
-民視第一台,p5p://fccs.123178.top:9906/615cf01d000b41120c5a18366221dad4
-
-台視綜合,p5p://fccs.123178.top:9906/615cf1d90008f3590c60ddff48ad15c3
-
-中視經典(720p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
-中視經典,p5p://fccs.123178.top:9906/615ceee60007b48e0c555876520737b3
-
-中視菁采(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
-中視菁采(1080p),http://185.207.176.189:8080/channels/tw-103/mpeg.2ts
-中視菁采,p5p://fccs.123178.top:9906/615cef2b000a183f0c56669a25583e1d
-
-華視體育文化,p5p://fccs.123178.top:9906/615cf2bd000248ec0c6456eae60c58dc
-
-公視戲劇(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
 
-
-TVBS直播(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
-TVBS直播(1080p),http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-TVBS直播(720p),http://50.7.61.148:30080/Entry/tvbs
-TVBS直播,p5p://fccs.123178.top:9906/61495191000f04ab0d7f8024a458a528
-TVBS直播,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
+民視新聞台,http://123.51.229.65:18563/.m3u8
+民視新聞台,mitv://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
+民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$備用
+民視新聞台,https://ytb.arp220.us/jmsytb.m3u8?c=7$備用
 
-TVBS歡樂台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH145/145
-TVBS歡樂台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
-TVBS歡樂台(1080p),http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
-TVBS歡樂台(720p),rtmp://59.124.75.138/sat/tv421#rtmp://59.124.75.157/sat/tv421
-TVBS歡樂台(720p),http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-TVBS歡樂台,p5p://fccs.123178.top:9906/614942c70008d5e00d45b97fe1d761d3
-TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/b4b85eca20d7462fae595d8033c6a9ce
+台視新聞,mitv://fccs.word-tv.com:9906/6269285d000bc5c40374af92643669c3
+台視新聞,https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8$備用
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$備用
+台視新聞,https://ytb.arp220.us/jmsytb.m3u8?c=8
+✈台視新聞,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661272020/ei/dKsEY5XkM5qO_9EP0vOxgAk/ip/20.228.243.183/id/xL0ch83RAK8.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgUMlnLZkrgYSk07SY8FnEdS6kpw78iNbZz5b-iFN7aSMCIE4uNDsIQZVDI_Wo6MMyLmxMSbtz7pGICS5vmEIxjeRs/file/index.m3u8$備用
 
-東森綜合(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH131/131
-東森綜合(1080p),http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
-東森綜合,mitv://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
 
-東森幼幼(1080p),http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-東森幼幼(1080p),http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
-東森幼幼,mitv://ns2.hellotvvod.com:9906/a5729018eb3d44c4b4033e72ea4af060
+台視財經,mitv://fccs.word-tv.com:9906/626928870002ef3e0375515fa02e33ba
 
-東森超視(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH133/133
-東森超視(1080p),http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
-東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
-東森超視,mitv://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
+中視新聞,mitv://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
+中視新聞,https://ytb.arp220.us/jmsytb.m3u8?c=9$備用
 
-東森戲劇(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH132/132
-東森戲劇(1080p),http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-東森戲劇,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
-東森戲劇,mitv://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
+華視新聞資訊,mitv://fccs.word-tv.com:9906/62692acf000c5e7a037e3d0919397c0a
+華視新聞資訊,https://ytb.arp220.us/jmsytb.m3u8?c=4$備用
 
-八大綜合台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH124/124
-八大綜合台(1080p),http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-八大綜合台(720p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
-八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-八大綜合台,mitv://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c
+TVBS新聞台,mitv://fccs.word-tv.com:9906/6254121e00022e5c0955285ee55f9ec4
+TVBS新聞台,rtmp://59.124.75.138/sat/tv551#rtmp://59.124.75.157/sat/tv551
+TVBS新聞台,https://ytb.arp220.us/jmsytb.m3u8?c=2$備用
 
-八大第一台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH123/123
-八大第一台(1080p),http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-八大第一台,mitv://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
 
-八大戲劇台(1080p),http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
-八大戲劇台,mitv://ns2.hellotvvod.com:9906/ea7f77bf68254477b2a29793cf65f55a
+年代新聞,mitv://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
 
-八大娛樂台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH126/126
-八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
-八大娛樂台,mitv://ns2.hellotvvod.com:9906/cdb80c12a4854752b4cfb570d448ac05
 
-八大精彩台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
+東森新聞,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+東森新聞,https://ytb.arp220.us/jmsytb.m3u8?c=10$備用
 
-緯來綜合台(1080p),http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-緯來綜合台,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
-緯來綜合台,mitv://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
+東森財經新聞,mitv://fccs.word-tv.com:9906/6254128d000e830c0956dd1ea31d7f59
+東森財經新聞,rtmp://59.124.75.138/sat/tv571#rtmp://59.124.75.157/sat/tv571
+東森財經新聞,https://ytb.arp220.us/jmsytb.m3u8?c=11$備用
 
-緯來戲劇(1080p),http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-緯來戲劇,mitv://ns2.hellotvvod.com:9906/c4d3341645874d9fab6329a7f83f5121
 
-緯來日本(1080p),http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-緯來日本(720p),rtmp://59.124.75.138/sat/tv771#rtmp://59.124.75.157/sat/tv771
-緯來日本(720p),http://50.7.61.147:30080/Entry/vljp?$好像連不上
-緯來日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
-緯來日本,mitv://ns2.hellotvvod.com:9906/f89c51e091594bb1bcce0ba7b3e17973
+三立新聞,mitv://fccs.word-tv.com:9906/625411f9000c761609549a782b245a4c
 
-緯來育樂(1080p),http://211.23.114.106:8562/http/116.50.42.19:8081/hls/68/810/ch30.m3u8
-緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-緯來育樂,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
 
-緯來體育(1080p),http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-緯來體育(720p),rtmp://59.124.75.138/sat/tv701#rtmp://59.124.75.157/sat/tv701
-緯來體育,p5p://fccs.123178.top:9906/617505470005c9df02c8c6600f64eca5
-緯來體育,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
+中天新聞,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
+中天新聞,https://ytb.arp220.us/jmsytb.m3u8?c=5$備用
 
-靖天綜合台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv046
-靖天綜合台,p5p://fccs.123178.top:9906/614c7520000829c819c264fbe6b1d5dc
 
-靖天歡樂台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054
-靖天歡樂台,p5p://fccs.123178.top:9906/60c5a564000c898610c85d82cfc3a4e3
 
-靖天日本台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047
-靖天日本台,p5p://fccs.123178.top:9906/6045b8aa000389cf066c3b7385e82ede.ts
+壹新聞,mitv://fccs.word-tv.com:9906/62541b7c0007f8c30979c109c2ede6a3
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
-靖天卡通台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH139/139
-靖天卡通台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv044
-靖天卡通台,p5p://fccs.123178.top:9906/60bd172500015f0f095802a7f2bd13c9
-靖天卡通台,mitv://ns2.hellotvvod.com:9906/bb214f3596dd4b1c8bae816edff835be
 
-靖天映畫(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055
-靖天映畫,p5p://fccs.123178.top:9906/6045ba850003d28406737afe6daf6f4d.ts
+非凡新聞,mitv://fccs.word-tv.com:9906/6257f613000f40140e435b0b41c847c0
 
-靖天育樂,p5p://fccs.123178.top:9906/60469f430002fd3e09f100f732da02a0.ts#p5p://fccs.123178.top:9906/60c5a45d000a99f910c459ab1ccabbf3
+非凡商業,mitv://fccs.word-tv.com:9906/626911890006d792031b822fdf86a38a
 
-靖天國際台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH137/137
-靖天國際台,p5p://fccs.123178.top:9906/60bd140b000e6170094be86cd1b01e57
+寰宇新聞台,mitv://fccs.word-tv.com:9906/6257feca0002d9980e6562b6716c1c5a
+寰宇新聞台,https://ytb.arp220.us/jmsytb.m3u8?c=6$備用
 
-靖洋戲劇台(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045
-靖洋戲劇台,p5p://fccs.123178.top:9906/60441bcb000e6baf001f77240fd6acd8.ts
+寰宇新聞台灣台,mitv://fccs.word-tv.com:9906/6258370a000e53840f411fa6b1f19ad7
 
+寰宇財經台,mitv://fccs.word-tv.com:9906/626179de00005255197b252361cec9d5
 
-靖洋卡通台,p5p://fccs.123178.top:9906/60bd169300057f1b0955c9653d8db6ac
-靖洋卡通台,mitv://ns2.hellotvvod.com:9906/f356d20c5a374fef82a196fadfe38a77
+靖天資訊台,mitv://fccs.word-tv.com:9906/62680bf30004db8219222787aaffbf79
 
+衛視電影台,mitv://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582
 
-衛視中文台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH88/88
-衛視中文台(1080p),http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
-衛視中文台(720p),http://50.7.61.148:30080/Entry/starchinese
-衛視中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 
-三立綜合台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH129/129
-三立綜合台,p5p://fccs.123178.top:9906/60441aa3000729ad001af109e515adad.ts
+好萊塢電影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
 
-三立台灣台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH127/127
-三立台灣台(1080p),https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
-三立台灣台(1080p),http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
-三立台灣台(720p),http://50.7.61.148:30080/Entry/settw-
-三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-三立台灣台,mitv://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
 
-三立都會台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH130/130
-三立都會台(1080p),https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
-三立都會台(1080p),http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-三立都會台,mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+緯來電影,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
 
-三立戲劇台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH128/128
-三立戲劇台,p5p://fccs.123178.top:9906/60441b4f00036f62001d8ff40f884e87.ts
 
-中天綜合(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH115/115
-中天綜合(1080p),http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-中天綜合,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
-中天綜合,mitv://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
+龍華電影$待添加
 
-中天亞洲(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH116/116
-中天亞洲(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
-中天亞洲,p5p://fccs.123178.top:9906/60449a27000cf419020d0e24d4fdafd9.ts
-中天亞洲,mitv://ns2.hellotvvod.com:9906/1c191cbfb24547d7be6f91d352266efa
+龍華洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
 
-中天娛樂(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH114/114
-中天娛樂(1080p),http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
-中天娛樂,p5p://fccs.123178.top:9906/61495250000bf9d20d82697552901d6f
-中天娛樂,mitv://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
 
-MoMo綜合(720p),rtmp://59.124.75.138/sat/tv761#rtmp://59.124.75.157/sat/tv761
+影迷數位電影台,mitv://fccs.word-tv.com:9906/626a074600072a2c06db6c8c9af16e70
 
-MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
-MoMo親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
 
-JET綜合(720p),http://50.7.61.147:30080/Entry/jet
-JET綜合,p5p://fccs.123178.top:9906/6149450a0008594b0d4e8f17d7ad923b
+東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
 
-龍華經典(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 
-龍華戲劇(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH134/134
-龍華戲劇(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
-龍華戲劇(1080p),http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
-龍華戲劇,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
+東森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
 
-龍華日韓(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
-龍華日韓(1080p),http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 
-龍華偶像(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH136/136
-龍華偶像(1080p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
-龍華偶像(1080p),http://211.23.114.106:8579/http/59.120.8.187:8066/hls/210/10012/cstv12.m3u8
-龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+龍祥時代,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
 
-龍華卡通(720p),http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
-龍華卡通,p5p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
 
+靖天電影$待添加
 
-大愛一台(1080p),http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
-大愛一台(720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛一台,p5p://fccs.123178.top:9906/6044917a0000fce101eb274c2044b550.ts
-大愛一台,mitv://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
+民視台灣台,mitv://fccs.word-tv.com:9906/62692823000550c80373cb5be6f7e438
 
-大愛二台(1080p),rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH82/82
-大愛二台(720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大愛二台,p5p://fccs.123178.top:9906/60c5a836000cdeac10d361e80c6f7078
-大愛二台,mitv://ns2.hellotvvod.com:9906/4523b0956bb34141bfb61460ea9494ed
+民視第一台,mitv://fccs.word-tv.com:9906/626927db000004640372b0c04cca9ca3
 
-大愛三台(720p),https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+台視綜合,mitv://fccs.word-tv.com:9906/626929ef0001a650037acf4bc1fd630b
+
+
+中視經典,mitv://fccs.word-tv.com:9906/626928e3000ce0de0376bb4ad8c2f741
+
+
+中視菁采,mitv://fccs.word-tv.com:9906/6269290b000463f70377555ece4c7fca
+
+華視體育文化,mitv://fccs.word-tv.com:9906/62692aad0004ff59037db656efdee736
+
+
+公視戲劇$待添加
+
+
+TVBS HD,mitv://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
+
+TVBS直播$未辨别
+
+TVBS歡樂台,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421#rtmp://59.124.75.157/sat/tv421
+
+東森綜合,mitv://fccs.word-tv.com:9906/6258543f000be6350fb3360fed87de8b
+
+東森幼幼,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
+
+
+東森超視,mitv://fccs.word-tv.com:9906/625854810005f8350fb4365bf7cd8f4e
+
+東森戲劇,mitv://fccs.word-tv.com:9906/625420c30002ef15098e5d177b7f38b1
+
+八大綜合台,mitv://fccs.word-tv.com:9906/625851bd000e8a2d0fa96aec6397d1ea
+
+
+八大第一台,mitv://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
+
+八大戲劇台,mitv://fccs.word-tv.com:9906/6258594f0004c9c40fc6fabdb0e81edf
+
+八大娛樂台,mitv://fccs.word-tv.com:9906/6258e45a000845a611e61e9a50bc5e3e
+
+
+八大精彩台$待添加
+
+緯來綜合台,mitv://fccs.word-tv.com:9906/62584fd10006d72b0fa1e71495ef5024
+
+緯來戲劇 ,mitv://fccs.word-tv.com:9906/62585f76000e7ba90fdf0591eb84257b
+
+緯來日本,mitv://fccs.word-tv.com:9906/62637c010003ce15074fddf26f0135da
+緯來日本,rtmp://59.124.75.138/sat/tv771#rtmp://59.124.75.157/sat/tv771
+
+緯來育樂,mitv://fccs.word-tv.com:9906/6256bd41000a7a7c097d6582fe044cc4
+
+緯來體育,mitv://fccs.word-tv.com:9906/62541bbd000ba7f6097abfe357f9c565
+緯來體育,rtmp://59.124.75.138/sat/tv701#rtmp://59.124.75.157/sat/tv701
+
+
+靖天綜合台$待添加
+
+靖天歡樂台$待添加
+
+靖天日本台$待添加
+
+靖天卡通台,mitv://fccs.word-tv.com:9906/62618c1e000132fa19c26f5d328c9a20
+
+
+靖天映畫$待添加
+
+靖天育樂$待添加
+
+靖天國際台,mitv://fccs.word-tv.com:9906/62618c820009926c19c3f821ebec02ee
+
+靖洋戲劇台,mitv://fccs.word-tv.com:9906/6260e602000b292d1739948a4e6140fe
+
+靖洋卡通台,mitv://fccs.word-tv.com:9906/6260e5f00006cfff17394d1df9bdf95d
+
+衛視中文台 ,mitv://fccs.word-tv.com:9906/625853fa000f1f080fb2295a047a36dc
+
+三立綜合台,mitv://fccs.word-tv.com:9906/6259b57f0003ca05151715fc95200be0
+
+三立台湾台,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc
+
+三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
+
+三立戲劇台,mitv://fccs.word-tv.com:9906/6259b5a1000d5db415179d3f530f1044
+
+
+中天綜合,mitv://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
+
+中天亞洲,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
+
+中天娛樂,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
+
+MoMo綜合,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
+MoMo綜合,rtmp://59.124.75.138/sat/tv761#rtmp://59.124.75.157/sat/tv761
+
+MoMo親子台 ,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
+
+JET綜合,mitv://fccs.word-tv.com:9906/625860030000abdc0fe128cf548f1def
+
+龍華經典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
+
+龍華戲劇,mitv://fccs.word-tv.com:9906/6260e4c0000811ed1734a9ef0f8923c2
+
+龍華日韓$待添加
+
+龍華偶像,mitv://fccs.word-tv.com:9906/6260e4e9000627b41735499a8a2abd33
+
+
+龍華卡通$待添加
+
+
+大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8$暫定
+大愛,https://pulltv2.wanfudaluye.com/live/tv2.m3u8$暫定
+大愛,https://pulltv3.wanfudaluye.com/live/tv3.m3u8$暫定
+大愛,mitv://fccs.word-tv.com:9906/6257e958000647f20e119e47becddbf1
 
 🇲🇴澳,#genre#
 澳視澳門$失效中http://61.244.22.4/ch1/ch1.live/index.m3u8
