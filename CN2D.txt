@@ -11,17 +11,14 @@
 
 自家優選,#genre#
 
-無綫新聞,http://223.17.122.230:9981/stream/channelid/804222044?profile=pass
-無綫新聞,http://116.205.130.205:66/6/807tv.php?tid=gt&id=7
+
 無綫新聞,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3$備用
-無綫新聞,https://epg.pm/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37ebe7cc.m3u8$備用
 
 
 
+無綫新聞海外版,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
 無綫新聞海外版,https://nettvpro.live/hls/tvb.php?id=1
-無綫新聞海外版,http://2021.stream-link.org/t2021/tvb_news#http://2022.stream-link.org/playlist/tvb_news#http://2023.stream-link.org/playlist/tvb_news
-無綫新聞海外版,https://epg.pm/stream/17cd231ecaa64551c900793e3ef920f879669b8d8bec48f66cf617685cbf84c7.ctv#https://epg.pm/stream/f48eacefe699d644d28babcb6d9df594d0240f6860f5636953abc86a2ba4cb5c.ctv
-無綫新聞海外版,http://live.cooltv.top/tv/tvb.php?id=0
+無綫新聞海外版,http://2022.stream-link.org/playlist/tvb_news
 無綫新聞海外版,http://9.zhxinda.xyz/newss.php?id=1$備用
 
 
@@ -33,7 +30,14 @@
 有線新聞,https://api.leonardpark.dev/live/icable/109$備用
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8$備用
 
-
+民視 HD,http://23.237.10.66:16334
+台視 HD,http://23.237.10.66:16344
+&中視 HD,
+&華視 HD,
+&公視 HD,
+&中天新聞,
+&東森新聞,
+&壹新聞,
 
 🇭🇰港,#genre#
 
@@ -58,16 +62,12 @@ J2,http://223.17.122.230:9981/stream/channelid/1454790305?profile=pass
 J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska
 
 
-無綫新聞,http://223.17.122.230:9981/stream/channelid/804222044?profile=pass
-無綫新聞,http://116.205.130.205:66/6/807tv.php?tid=gt&id=7
 無綫新聞,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3$備用
-無綫新聞,https://epg.pm/stream/b03383e89dacf388198d9d94e514c98264245f4fca84fa24dc4b352e37ebe7cc.m3u8$備用
 
 
+無綫新聞海外版,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693
 無綫新聞海外版,https://nettvpro.live/hls/tvb.php?id=1
-無綫新聞海外版,http://2021.stream-link.org/t2021/tvb_news#http://2022.stream-link.org/playlist/tvb_news#http://2023.stream-link.org/playlist/tvb_news
-無綫新聞海外版,https://epg.pm/stream/17cd231ecaa64551c900793e3ef920f879669b8d8bec48f66cf617685cbf84c7.ctv#https://epg.pm/stream/f48eacefe699d644d28babcb6d9df594d0240f6860f5636953abc86a2ba4cb5c.ctv
-無綫新聞海外版,http://live.cooltv.top/tv/tvb.php?id=0
+無綫新聞海外版,http://2022.stream-link.org/playlist/tvb_news
 無綫新聞海外版,http://9.zhxinda.xyz/newss.php?id=1$備用
 
 
