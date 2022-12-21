@@ -1,13 +1,21 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2022-12-20=,
+=2022-12-21=,
+-------------,
 ☆表示可能无声,
 ✈可能需要科网,
+-------------,
 频道无法播放,
 切换其他频道,
+-------------,
 源提示加微信,
-請不要添加,
+請勿添加,
+-------------,
+有聲音無畫面,
+可嘗試切換,
+解碼方式,
+-------------,
 
 自家優選,#genre#
 
@@ -362,7 +370,6 @@ JET綜合&待添加
 龍華卡通$待添加
 
 
-大愛&待添加
 大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 ✈大愛1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
@@ -419,4 +426,51 @@ JET綜合&待添加
 澳門綜藝,http://live4.tdm.com.mo/ch6/_definst_//hd_ch6.live/playlist.m3u8
 
 澳門蓮花(Lotus Macau),http://120.84.96.78:808/hls/24/index.m3u8
+
+
+未整合1,#genre#
+民視台灣台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+FTV綜藝(民視綜藝)[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+民視第一台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+民視 HD[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+豬哥亮歌廳秀[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+中天新聞[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+影迷數位電影台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+CNEX紀實頻道[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+時尚運動[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+八大精彩台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+華視 HD[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+中視 HD[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+八大綜合台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
+HakkaTV(客家電視台)[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
+公視戲劇[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+靖天卡通台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+靖洋戲劇台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+靖天日本台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
+采昌影劇台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+華視新聞資訊[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+GINX Esports[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+靖天歡樂台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+靖天映畫[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖洋卡通台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
+靖天戲劇台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天電影台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+靖天育樂台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+中視菁采[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+靖天國際台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+TVBS歡樂台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+ELTA娛樂(愛爾達娛樂台)[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+TVBS HD[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+CATCHPLAY電影台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+中視新聞[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+Trace Sport-Stars[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+中視經典[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+Trace Urban[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+Arirang Korea[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+Mezzo Live[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+智林體育台[1280*720],http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+
+
+
+
 
