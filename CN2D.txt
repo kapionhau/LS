@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
 ==修改時間==,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-=2022-12-21=,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
+=2022-12-25=,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
 --------------------------,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
 ☆表示可能无声,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
 ✈可能需要科网,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
@@ -19,8 +19,7 @@
 
 自家優選,#genre#
 
-
-無綫新聞,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3?$過於卡頓有新源刪除
+無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
 
 
 
@@ -30,26 +29,39 @@
 
 
 有線新聞,http://116.205.130.205:66/6/807tv.php?tid=gt&id=19
+有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8&備用
 有線新聞,https://epg.pm/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8$備用
 有線新聞,https://api.leonardpark.dev/live/icable/109$備用
 
+民視 HD,http://123.58.201.173:52411/test/lshotel.php?id=4
 民視 HD,http://23.237.10.66:16334?&備用
 民視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8&備用
-台視 HD,http://23.237.10.66:16344?&備用
-中視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
-華視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
-公視 HD&待添加
+民視 HD,http://107.151.203.111:2209/135/us50.php?id=msk&備用
 
+台視 HD,http://123.58.201.173:52411/test/lshotel.php?id=1
+台視 HD,http://23.237.10.66:16344?&備用
+台視 HD,http://107.151.203.111:2209/135/us50.php?id=tsk&備用
+
+中視 HD,http://123.58.201.173:52411/test/lshotel.php?id=2
+中視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+
+華視 HD,http://123.58.201.173:52411/test/lshotel.php?id=3
+華視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+
+公視 HD,http://123.58.201.173:52411/test/lshotel.php?id=5
+
+中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=41
 中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 
-東森新聞&待添加
+東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
 
-壹新聞&待添加
+壹新聞,http://123.58.201.173:52411/test/lshotel.php?id=50
+
+
+
 
 🇭🇰港,#genre#
-
-
 華麗翡翠台,http://23.237.10.66:16410&備用
 
 
@@ -63,6 +75,7 @@
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8&備用
 翡翠台,http://113.117.74.19:808/hls/67/index.m3u8&備用#http://120.84.96.78:808/hls/25/index.m3u8&備用
 翡翠台,http://59.149.114.27:9981/stream/channelid/1255701536?profile=matroska?$備用
+翡翠台http://107.151.203.111:2209/135/hk.php?id=tvbfct$備用
 
 
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
@@ -73,8 +86,7 @@ J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 
 
 
-
-無綫新聞,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3?$過於卡頓有新源刪除
+無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
 
 
 無綫新聞海外版,http://2022.stream-link.org/playlist/tvb_news
@@ -92,14 +104,18 @@ J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 
 
 有線新聞,http://116.205.130.205:66/6/807tv.php?tid=gt&id=19
+有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8&備用
 有線新聞,https://epg.pm/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8$備用
 有線新聞,https://api.leonardpark.dev/live/icable/109$備用
 
-
+有線財經資訊,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 有線財經資訊,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8&備用
+有線財經資訊,https://api.leonardpark.dev/live/icable/108&備用
 
+有線直播新聞台,http://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8
 有線直播新聞台,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+有線直播新聞台,https://api.leonardpark.dev/live/icable/110&備用
 
 ViuTV,http://59.149.114.27:9981/stream/channelid/1452492542?profile=matroska?&備用
 
@@ -139,6 +155,7 @@ TVB星河#待添加
 Now Sports,http://116.205.130.205:66/6/807tv.php?tid=gt&id=12
 
 NOW新聞台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
+✈NOW新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
 
 NOW財經台&待添加
 
@@ -146,22 +163,32 @@ NOW財經台&待添加
 香港開電視,http://59.149.114.27:9981/stream/channelid/1259577139?profile=matroska?&備用
 ✈香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
+
+
+
 🇹🇼台,#genre#
 豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+✈豬哥亮歌廳秀,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv006
 
-
+民視 HD,http://123.58.201.173:52411/test/lshotel.php?id=4
 民視 HD,http://23.237.10.66:16334?&備用
 民視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8&備用
+民視 HD,http://107.151.203.111:2209/135/us50.php?id=msk&備用
+✈民視 HD,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv002
 
-
+台視 HD,http://123.58.201.173:52411/test/lshotel.php?id=1
 台視 HD,http://23.237.10.66:16344?&備用
+台視 HD,http://107.151.203.111:2209/135/us50.php?id=tsk&備用
 
-
+中視 HD,http://123.58.201.173:52411/test/lshotel.php?id=2
 中視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+✈中視 HD,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv040
 
+華視 HD,http://123.58.201.173:52411/test/lshotel.php?id=3
 華視 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+✈華視 HD,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv041
 
-公視 HD&待添加
+公視 HD,http://123.58.201.173:52411/test/lshotel.php?id=5
 
 
 公視台語台&待添加
@@ -170,71 +197,105 @@ NOW財經台&待添加
 公視3&待添加
 
 
+民視新聞台,http://123.58.201.173:52411/test/lshotel.php?id=42
 民視新聞台,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8&備用
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8&備用
 ✈民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+✈民視新聞台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv13
 ✈民視新聞台,https://ytm2.yuanhsing.cf/FTVCP.m3u8
-
+✈民視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=1
+✈民視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=01
+✈民視新聞台,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 
 台視新聞台,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8&備用
 ✈台視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+✈台視新聞台,https://git.io/JgkxY
+✈台視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=11
+✈台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 
 
 台視財經&待添加
 
 中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8&備用
 ✈中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+✈中視新聞,https://git.io/Jgkxz
+✈中視新聞,http://tv.redrainl.site:9500/live.m3u8?c=2
+✈中視新聞,http://tv.redrainl.site:9500/live.m3u8?c=02
+✈中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+✈中視新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv074
 
+華視新聞資訊,http://123.58.201.173:52411/test/lshotel.php?id=38
 華視新聞資訊,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8&備用
 
+TVBS新聞台,http://123.58.201.173:52411/test/lshotel.php?id=44
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8&備用
+✈TVBS新聞台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live072
 
-年代新聞&待添加
+年代新聞,http://123.58.201.173:52411/test/lshotel.php?id=39
 
+東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
+✈東森新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live114
 
-東森新聞&待添加
-
-東森財經新聞&待添加
+東森財經新聞,http://123.58.201.173:52411/test/lshotel.php?id=48
 ✈東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 ✈東森財經新聞,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+✈東森財經新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live019
 
-三立新聞&待添加
+三立新聞,http://123.58.201.173:52411/test/lshotel.php?id=43
+
+三立iNEWS新聞&待添加
 ✈三立iNEWS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 ✈三立iNEWS新聞,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+✈三立iNEWS新聞,http://tv.redrainl.site:9500/live.m3u8?c=51
+✈三立iNEWS新聞,https://git.io/Jgkxj
+✈三立iNEWS新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+✈三立iNEWS新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live089
 
+中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=41
 中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+✈中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=3
+✈中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
+✈中天新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv009
 
 
-壹新聞&待添加
+壹新聞,http://123.58.201.173:52411/test/lshotel.php?id=50
 
 
-非凡新聞&待添加
+非凡新聞,http://123.58.201.173:52411/test/lshotel.php?id=46
 
-非凡商業&待添加
+非凡商業,http://123.58.201.173:52411/test/lshotel.php?id=47
 
-寰宇新聞台&待添加
+寰宇新聞台,http://123.58.201.173:52411/test/lshotel.php?id=49
 ✈寰宇新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 ✈寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+✈寰宇新聞台,http://tv.redrainl.site:9500/live.m3u8?c=22
+✈寰宇新聞台,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 
 寰宇新聞台灣台&待添加
+✈寰宇新聞台灣台,https://git.io/JgkpO
+✈寰宇新聞台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+✈寰宇新聞台灣台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn14
 
 寰宇財經台&待添加
 
 
-衛視電影台&待添加
+衛視電影台,http://123.58.201.173:52411/test/lshotel.php?id=54
 
+好萊塢電影,http://123.58.201.173:52411/test/lshotel.php?id=55
 好萊塢電影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 
 
-緯來電影&待添加
+緯來電影,http://123.58.201.173:52411/test/lshotel.php?id=56
 
 
-龍華電影$待添加
+龍華電影,http://123.58.201.173:52411/test/lshotel.php?id=57
+✈龍華電影,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn03
 
 龍華洋片&待添加
 
 
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+✈影迷數位電影台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv011
 
 
 東森電影,http://120.84.96.196:808/hls/32/index.m3u8
@@ -242,16 +303,21 @@ TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8&備用
 
 東森洋片,http://120.84.96.196:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.78:808/hls/33/index.m3u8&備用
+東森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt&備用
+
 
 龍祥時代,http://120.84.96.196:808/hls/35/index.m3u8
 
 靖天電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
 靖天電影台,https://epg.pm/stream/9fa6de2761cb2aaac866db385868a1c4a4b1897e62dd7686d6cda9aa23936172.m3u8
+✈靖天電影台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv061
 
 
 民視台灣台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+✈民視台灣台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv001
 
 民視第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+✈民視第一台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv003
 
 台視綜合&待添加
 
@@ -259,59 +325,70 @@ FTV綜藝(民視綜藝),http://www.336699.live:1935/blockfour/4gtv-4gtv004.strea
 
 
 中視經典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+✈中視經典,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv080
 
 
 中視菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+✈中視菁采,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv064
+
 
 華視體育文化&待添加
 
 
 公視戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
 
-
+TVBS HD,http://123.58.201.173:52411/test/lshotel.php?id=45
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8&備用
+✈TVBS HD,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv073
 
 
 TVBS直播$未辨别
 
+TVBS歡樂台,http://123.58.201.173:52411/test/lshotel.php?id=32
 TVBS歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+✈TVBS歡樂台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv068
 
-東森綜合&待添加
+東森綜合,http://123.58.201.173:52411/test/lshotel.php?id=24
 
 東森幼幼&待添加
 
 
-東森超視&待添加
+東森超視,http://123.58.201.173:52411/test/lshotel.php?id=25
 
-東森戲劇&待添加
+東森戲劇,http://123.58.201.173:52411/test/lshotel.php?id=30
 
+八大綜合台,http://123.58.201.173:52411/test/lshotel.php?id=20
 八大綜合台,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
+✈八大綜合台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv039
 
-八大第一台&待添加
+八大第一台,http://123.58.201.173:52411/test/lshotel.php?id=19
 
-八大戲劇台&待添加
+八大戲劇台,http://123.58.201.173:52411/test/lshotel.php?id=31
 
 八大娛樂台&待添加
 
 八大精彩台,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
 
-緯來綜合台&待添加
+緯來綜合台,http://123.58.201.173:52411/test/lshotel.php?id=18
 
-緯來戲劇&待添加
+緯來戲劇,http://123.58.201.173:52411/test/lshotel.php?id=33
 
-緯來日本&待添加
+緯來日本,http://123.58.201.173:52411/test/lshotel.php?id=37
+緯來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 
-緯來育樂&待添加
+緯來育樂,http://123.58.201.173:52411/test/lshotel.php?id=63
 
-緯來體育&待添加
+緯來體育,http://123.58.201.173:52411/test/lshotel.php?id=64
 
 
 靖天綜合台$待添加
 
 靖天資訊台&待添加
+✈靖天資訊台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv065
 
 靖天歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 靖天歡樂台,https://epg.pm/stream/9769df2e1a2ba12009747d6ddd1ff1f38d6b9861b3ea4986539a21cabb1f0ddc.m3u8
+✈靖天歡樂台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv054
 
 靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
 靖天日本台,https://epg.pm/stream/c6d33420f57fe5f24617c15006265ed2839e3457cc894110d1f54e6302d58bd5.m3u8
@@ -321,12 +398,15 @@ TVBS歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 
 靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖天映畫,https://epg.pm/stream/691594da9dc5f64c751d9ec4325ce175717d48d14e5f907ce34cf06bed1c3244.m3u8
+✈靖天映畫,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv055
 
 靖天育樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
 靖天育樂台,https://epg.pm/stream/172fa1ed8f426842682c6292ca8d56a2f17ac5697ad05c598a82a9fca7a5f32b.m3u8
+✈靖天育樂台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv062
 
 靖天國際台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
 靖天國際台,https://epg.pm/stream/2acc98d709b8d8d5cd59370aeec21f3e254af1b13e06f803e12157820265ab9b.m3u8
+✈靖天國際台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv063
 
 靖天戲劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
 靖天戲劇台,https://epg.pm/stream/9427f507641ac58ad3c8226a4e9c050c531584de20783a7a93689e9d6c977b17.m3u8
@@ -335,24 +415,25 @@ TVBS歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 
 靖洋卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
 
-衛視中文台&待添加
+衛視中文台,http://123.58.201.173:52411/test/lshotel.php?id=23
 
 三立綜合台&待添加
+✈三立綜合台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live207
 
-三立台湾台&待添加
+三立台灣台,http://123.58.201.173:52411/test/lshotel.php?id=21
 
-三立都會台&待添加
+三立都會台,http://123.58.201.173:52411/test/lshotel.php?id=22
 
 三立戲劇台&待添加
 
-
+中天綜合,http://123.58.201.173:52411/test/lshotel.php?id=26
 中天綜合,http://23.237.10.66:16372&備用
 
 中天亞洲&待添加
 
-中天娛樂&待添加
+中天娛樂,http://123.58.201.173:52411/test/lshotel.php?id=27
 
-MoMo綜合&待添加
+MoMo綜合,http://123.58.201.173:52411/test/lshotel.php?id=66
 
 MoMo親子台&待添加
 
@@ -360,16 +441,16 @@ JET綜合&待添加
 
 龍華經典&待添加
 
-龍華戲劇&待添加
+龍華戲劇,http://123.58.201.173:52411/test/lshotel.php?id=34
 
-龍華日韓$待添加
+龍華日韓,http://123.58.201.173:52411/test/lshotel.php?id=35
 
-龍華偶像&待添加
-
-
-龍華卡通$待添加
+龍華偶像,http://123.58.201.173:52411/test/lshotel.php?id=36
 
 
+龍華卡通,http://123.58.201.173:52411/test/lshotel.php?id=17
+
+大愛1台,http://123.58.201.173:52411/test/lshotel.php?id=7
 大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 ✈大愛1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
@@ -426,6 +507,7 @@ JET綜合&待添加
 澳門綜藝,http://live4.tdm.com.mo/ch6/_definst_//hd_ch6.live/playlist.m3u8
 
 澳門蓮花(Lotus Macau),http://120.84.96.78:808/hls/24/index.m3u8
+
 
 
 未整合1,#genre#
