@@ -20,6 +20,7 @@
 自家優選,#genre#
 
 無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
+無綫新聞,http://2022.stream-link.org/playlist/tvb_news
 
 
 
@@ -87,6 +88,7 @@ J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 
 
 無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
+無綫新聞,http://2022.stream-link.org/playlist/tvb_news
 
 
 無綫新聞海外版,http://2022.stream-link.org/playlist/tvb_news
