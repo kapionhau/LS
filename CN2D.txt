@@ -1,35 +1,35 @@
 【關於】,#genre#
-=不定期更新=,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-==修改時間==,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-=2022-12-25=,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
---------------------------,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-☆表示可能无声,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-✈可能需要科网,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
----------------------------,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-频道无法播放,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-切换其他频道,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-----------------------------,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-源提示加微信,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-請勿添加,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
------------------------------,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-有聲音無畫面,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-可嘗試切換,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-解碼方式,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
-------------------------------,https://mazwai.com/videvo_files/video/free/2014-06/small_watermarked/Black_Ink_--FREE_FOOTAGE--HD_preview.webm
+=不定期更新=,
+==修改時間==,
+=2023-01-06=,
+--------------------------,
+☆表示可能无声,
+✈可能需要科网,
+---------------------------,
+频道无法播放,
+切换其他频道,
+----------------------------,
+源提示加微信,
+請勿添加,
+-----------------------------,
+有聲音無畫面,
+可嘗試切換,
+解碼方式,
+------------------------------,
 
 自家優選,#genre#
 
-無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
-無綫新聞,http://2022.stream-link.org/playlist/tvb_news
+無綫新聞,http://shazui.8866.org:800/hls/82/index.m3u8&備用
+無綫新聞,http://radius.8866.org:800/hls/82/index.m3u8&備用
+無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8&備用
 
 
 
-無綫新聞海外版,http://2022.stream-link.org/playlist/tvb_news
-無綫新聞海外版,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693&備用
+無綫新聞海外版,https://2023.stream-link.org/playlist/tvb_news.tv
 
 
 
-有線新聞,http://116.205.130.205:66/6/807tv.php?tid=gt&id=19
+有線新聞,https://2023.stream-link.org/playlist/cable_news.tv
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8&備用
 有線新聞,https://epg.pm/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8$備用
@@ -52,9 +52,10 @@
 
 公視 HD,http://123.58.201.173:52411/test/lshotel.php?id=5
 
-中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=41
-中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+中視新聞,https://2023.stream-link.org/playlist/ctv_news.tv
+中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8&備用
 
+東森新聞,https://2023.stream-link.org/playlist/ebc_news.tv
 東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
 
 壹新聞,http://123.58.201.173:52411/test/lshotel.php?id=50
@@ -63,20 +64,18 @@
 
 
 🇭🇰港,#genre#
+華麗翡翠台,https://2023.stream-link.org/playlist/astro_jade.tv
 華麗翡翠台,http://23.237.10.66:16410&備用
 
 
 爆谷台$待添加
 
+翡翠台,https://2023.stream-link.org/playlist/tvb_jade.tv
 翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-翡翠台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=0
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
 翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
 翡翠台,http://23.237.10.66:16106&備用
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8&備用
-翡翠台,http://113.117.74.19:808/hls/67/index.m3u8&備用#http://120.84.96.78:808/hls/25/index.m3u8&備用
-翡翠台,http://59.149.114.27:9981/stream/channelid/1255701536?profile=matroska?$備用
-翡翠台http://107.151.203.111:2209/135/hk.php?id=tvbfct$備用
 
 
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
@@ -86,31 +85,27 @@ J2,http://116.205.130.205:66/6/807tv.php?tid=gt&id=10
 J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 
 
+無綫新聞,http://shazui.8866.org:800/hls/82/index.m3u8&備用
+無綫新聞,http://radius.8866.org:800/hls/82/index.m3u8&備用
+無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8&備用
 
-無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8
-無綫新聞,http://2022.stream-link.org/playlist/tvb_news
-
-
-無綫新聞海外版,http://2022.stream-link.org/playlist/tvb_news
-無綫新聞海外版,http://103.214.71.71:1633/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=AyW8SShgDFUZstSwjNYlcQ&expires=1671531693&備用
+無綫新聞海外版,https://2023.stream-link.org/playlist/tvb_news.tv
 
 
 
 無綫財經資訊$疑似改名財經體育資訊台
 
-財經體育資訊,http://2022.stream-link.org/playlist/tvb_finance
-財經體育資訊,http://116.205.130.205:66/6/807tv.php?tid=gt&id=9
-財經體育資訊,http://120.84.96.78:808/hls/86/index.m3u8
-財經體育資訊,http://59.149.114.27:9981/stream/channelid/795359597?profile=matroska?&備用
-財經體育資訊,http://radius.8866.org:800/hls/83/index.m3u8&備用
+無綫財經·體育·資訊,https://2023.stream-link.org/playlist/tvb_fanince.tv
+無綫財經·體育·資訊,http://radius.8866.org:800/hls/83/index.m3u8&備用
 
 
-有線新聞,http://116.205.130.205:66/6/807tv.php?tid=gt&id=19
+有線新聞,https://2023.stream-link.org/playlist/cable_news.tv
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8&備用
 有線新聞,https://epg.pm/stream/c23b8ac82fc1ce0ef11730c5760a49669a54e6131b2e116353ce2b733feda5f7.m3u8$備用
 有線新聞,https://api.leonardpark.dev/live/icable/109$備用
 
+有線財經資訊,https://2023.stream-link.org/playlist/cable_finance.tv
 有線財經資訊,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 有線財經資訊,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8&備用
 有線財經資訊,https://api.leonardpark.dev/live/icable/108&備用
@@ -125,12 +120,13 @@ ViuTV 6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?&�
 
 
 RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK 31,https://2023.stream-link.org/playlist/rthk_31.tv
 ✈RTHK 31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 ✈RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 
 RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-RTHK 32,http://116.205.130.205:66/6/807tv.php?tid=gt&id=18
+RTHK 32,https://2023.stream-link.org/playlist/rthk_32.tv
 ✈RTHK 32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 ✈RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
@@ -161,10 +157,8 @@ NOW新聞台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
 
 NOW財經台&待添加
 
-
-香港開電視,http://59.149.114.27:9981/stream/channelid/1259577139?profile=matroska?&備用
+香港開電視,https://2023.stream-link.org/playlist/hoy.tv
 ✈香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-
 
 
 
@@ -198,7 +192,7 @@ NOW財經台&待添加
 
 公視3&待添加
 
-
+民視新聞台,https://2023.stream-link.org/playlist/ftv_news.tv
 民視新聞台,http://123.58.201.173:52411/test/lshotel.php?id=42
 民視新聞台,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8&備用
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8&備用
@@ -209,6 +203,7 @@ NOW財經台&待添加
 ✈民視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=01
 ✈民視新聞台,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 
+台視新聞台,https://2023.stream-link.org/playlist/ttv_news.tv
 台視新聞台,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8&備用
 ✈台視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 ✈台視新聞台,https://git.io/JgkxY
@@ -218,6 +213,7 @@ NOW財經台&待添加
 
 台視財經&待添加
 
+中視新聞,https://2023.stream-link.org/playlist/ctv_news.tv
 中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8&備用
 ✈中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 ✈中視新聞,https://git.io/Jgkxz
@@ -226,26 +222,33 @@ NOW財經台&待添加
 ✈中視新聞,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 ✈中視新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv074
 
+華視新聞資訊,https://2023.stream-link.org/playlist/cts_news.tv
 華視新聞資訊,http://123.58.201.173:52411/test/lshotel.php?id=38
 華視新聞資訊,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8&備用
 
+TVBS新聞台,https://2023.stream-link.org/playlist/tvbs_news.tv
 TVBS新聞台,http://123.58.201.173:52411/test/lshotel.php?id=44
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8&備用
 ✈TVBS新聞台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live072
 
+TVBS財經台,https://2023.stream-link.org/playlist/tvbs.tv
+
 年代新聞,http://123.58.201.173:52411/test/lshotel.php?id=39
 
+東森新聞,https://2023.stream-link.org/playlist/ebc_news.tv
 東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
 ✈東森新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live114
 
+東森財經新聞,https://2023.stream-link.org/playlist/ebc_finance.tv
 東森財經新聞,http://123.58.201.173:52411/test/lshotel.php?id=48
 ✈東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 ✈東森財經新聞,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 ✈東森財經新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live019
 
+三立新聞,https://2023.stream-link.org/playlist/set_news.tv
 三立新聞,http://123.58.201.173:52411/test/lshotel.php?id=43
 
-三立iNEWS新聞&待添加
+三立iNEWS新聞,https://2023.stream-link.org/playlist/set_inews.tv
 ✈三立iNEWS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 ✈三立iNEWS新聞,https://ytm2.yuanhsing.cf/setmoney159.m3u8
 ✈三立iNEWS新聞,http://tv.redrainl.site:9500/live.m3u8?c=51
@@ -253,6 +256,9 @@ TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8&備用
 ✈三立iNEWS新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 ✈三立iNEWS新聞,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live089
 
+三立iNEWS+新聞https://2023.stream-link.org/playlist/set_news+.tv
+
+中天新聞,https://2023.stream-link.org/playlist/cti_news.tv
 中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=41
 中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 ✈中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=3
@@ -267,13 +273,14 @@ TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8&備用
 
 非凡商業,http://123.58.201.173:52411/test/lshotel.php?id=47
 
+寰宇新聞台,https://2023.stream-link.org/playlist/global_news.tv
 寰宇新聞台,http://123.58.201.173:52411/test/lshotel.php?id=49
 ✈寰宇新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 ✈寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 ✈寰宇新聞台,http://tv.redrainl.site:9500/live.m3u8?c=22
 ✈寰宇新聞台,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 
-寰宇新聞台灣台&待添加
+寰宇新聞台灣台,https://2023.stream-link.org/playlist/global_tw.tv
 ✈寰宇新聞台灣台,https://git.io/JgkpO
 ✈寰宇新聞台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 ✈寰宇新聞台灣台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn14
@@ -352,7 +359,7 @@ TVBS歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 
 東森綜合,http://123.58.201.173:52411/test/lshotel.php?id=24
 
-東森幼幼&待添加
+東森幼幼,https://2023.stream-link.org/playlist/ebc_yoyo.tv
 
 
 東森超視,http://123.58.201.173:52411/test/lshotel.php?id=25
@@ -428,6 +435,7 @@ TVBS歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 
 三立戲劇台&待添加
 
+中天綜合,https://2023.stream-link.org/playlist/cti_zh.tv
 中天綜合,http://123.58.201.173:52411/test/lshotel.php?id=26
 中天綜合,http://23.237.10.66:16372&備用
 
@@ -508,6 +516,7 @@ JET綜合&待添加
 澳門綜藝,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
 澳門綜藝,http://live4.tdm.com.mo/ch6/_definst_//hd_ch6.live/playlist.m3u8
 
+澳門蓮花(Lotus Macau),https://2023.stream-link.org/playlist/macau_lotustv.tv
 澳門蓮花(Lotus Macau),http://120.84.96.78:808/hls/24/index.m3u8
 
 
