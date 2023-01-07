@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2023-01-06=,
+=2023-01-07=,
 -----分割1-----,
 ☆表示可能无声,
 ✈可能需要科网,
@@ -29,6 +29,7 @@
 
 
 
+有線新聞,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有線新聞,https://2023.stream-link.org/playlist/cable_news.tv
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8&備用
@@ -58,6 +59,11 @@
 東森新聞,https://2023.stream-link.org/playlist/ebc_news.tv
 東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
 
+中天新聞,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
+中天新聞,https://2023.stream-link.org/playlist/cti_news.tv
+中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=41
+中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+
 壹新聞,http://123.58.201.173:52411/test/lshotel.php?id=50
 
 
@@ -70,6 +76,7 @@
 
 爆谷台$待添加
 
+翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
 翡翠台,https://2023.stream-link.org/playlist/tvb_jade.tv
 翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
@@ -81,6 +88,7 @@
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 明珠台,http://59.149.114.27:9981/stream/channelid/331671822?profile=matroska?&備用
 
+J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 J2,http://116.205.130.205:66/6/807tv.php?tid=gt&id=10
 J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 
@@ -90,7 +98,7 @@ J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8&備用
 
 無綫新聞海外版,https://2023.stream-link.org/playlist/tvb_news.tv
-
+✈無綫新聞海外版,https://tvp22.sky4k.top/index1.php
 
 
 無綫財經資訊$疑似改名財經體育資訊台
@@ -98,7 +106,7 @@ J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 無綫財經·體育·資訊,https://2023.stream-link.org/playlist/tvb_fanince.tv
 無綫財經·體育·資訊,http://radius.8866.org:800/hls/83/index.m3u8&備用
 
-
+有線新聞,https://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 有線新聞,https://2023.stream-link.org/playlist/cable_news.tv
 有線新聞,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有線新聞,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8&備用
@@ -114,6 +122,7 @@ J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 有線直播新聞台,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110&備用
 
+ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 ViuTV,http://59.149.114.27:9981/stream/channelid/1452492542?profile=matroska?&備用
 
 ViuTV 6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska?&備用
@@ -157,6 +166,7 @@ NOW新聞台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
 
 NOW財經台&待添加
 
+香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港開電視,https://2023.stream-link.org/playlist/hoy.tv
 ✈香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
@@ -226,6 +236,7 @@ NOW財經台&待添加
 華視新聞資訊,http://123.58.201.173:52411/test/lshotel.php?id=38
 華視新聞資訊,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8&備用
 
+TVBS新聞台,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS新聞台,https://2023.stream-link.org/playlist/tvbs_news.tv
 TVBS新聞台,http://123.58.201.173:52411/test/lshotel.php?id=44
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8&備用
@@ -258,6 +269,7 @@ TVBS財經台,https://2023.stream-link.org/playlist/tvbs.tv
 
 三立iNEWS+新聞https://2023.stream-link.org/playlist/set_news+.tv
 
+中天新聞,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 中天新聞,https://2023.stream-link.org/playlist/cti_news.tv
 中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=41
 中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
@@ -273,6 +285,7 @@ TVBS財經台,https://2023.stream-link.org/playlist/tvbs.tv
 
 非凡商業,http://123.58.201.173:52411/test/lshotel.php?id=47
 
+寰宇新聞台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 寰宇新聞台,https://2023.stream-link.org/playlist/global_news.tv
 寰宇新聞台,http://123.58.201.173:52411/test/lshotel.php?id=49
 ✈寰宇新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
@@ -290,6 +303,7 @@ TVBS財經台,https://2023.stream-link.org/playlist/tvbs.tv
 
 衛視電影台,http://123.58.201.173:52411/test/lshotel.php?id=54
 
+好萊塢電影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 好萊塢電影,http://123.58.201.173:52411/test/lshotel.php?id=55
 好萊塢電影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 
@@ -306,15 +320,16 @@ TVBS財經台,https://2023.stream-link.org/playlist/tvbs.tv
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 ✈影迷數位電影台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv011
 
-
+東森電影,https://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 東森電影,http://120.84.96.196:808/hls/32/index.m3u8
 東森電影,http://120.84.96.78:808/hls/32/index.m3u8&備用
 
+東森洋片,https://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
 東森洋片,http://120.84.96.196:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.78:808/hls/33/index.m3u8&備用
 東森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt&備用
 
-
+龍祥時代,https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
 龍祥時代,http://120.84.96.196:808/hls/35/index.m3u8
 
 靖天電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
@@ -380,7 +395,9 @@ TVBS歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 
 緯來綜合台,http://123.58.201.173:52411/test/lshotel.php?id=18
 
+緯來戲劇,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 緯來戲劇,http://123.58.201.173:52411/test/lshotel.php?id=33
+
 
 緯來日本,http://123.58.201.173:52411/test/lshotel.php?id=37
 緯來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
@@ -435,12 +452,14 @@ TVBS歡樂台,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist
 
 三立戲劇台&待添加
 
+中天綜合,https://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 中天綜合,https://2023.stream-link.org/playlist/cti_zh.tv
 中天綜合,http://123.58.201.173:52411/test/lshotel.php?id=26
 中天綜合,http://23.237.10.66:16372&備用
 
 中天亞洲&待添加
 
+中天娛樂,https://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 中天娛樂,http://123.58.201.173:52411/test/lshotel.php?id=27
 
 MoMo綜合,http://123.58.201.173:52411/test/lshotel.php?id=66
