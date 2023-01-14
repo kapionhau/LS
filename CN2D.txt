@@ -1,7 +1,7 @@
 【關於】,#genre#
 =不定期更新=,
 ==修改時間==,
-=2023-01-07=,
+=2023-01-14=,
 -----分割1-----,
 ☆表示可能无声,
 ✈可能需要科网,
@@ -19,6 +19,7 @@
 
 自家優選,#genre#
 
+無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://shazui.8866.org:800/hls/82/index.m3u8&備用
 無綫新聞,http://radius.8866.org:800/hls/82/index.m3u8&備用
 無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8&備用
@@ -92,7 +93,7 @@ J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8?blog.ntnas.top
 J2,http://116.205.130.205:66/6/807tv.php?tid=gt&id=10
 J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska?$備用
 
-
+無綫新聞,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 無綫新聞,http://shazui.8866.org:800/hls/82/index.m3u8&備用
 無綫新聞,http://radius.8866.org:800/hls/82/index.m3u8&備用
 無綫新聞,https://cdn.hklive.tv:443/xxxx/83/index.m3u8&備用
